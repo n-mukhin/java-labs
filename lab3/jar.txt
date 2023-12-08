@@ -1,3 +1,0 @@
-javac *.java
-jar cfv classes.jar *
-jar cfm lab3.jar mf.txt main.class
