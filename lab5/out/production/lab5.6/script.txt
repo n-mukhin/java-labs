@@ -1,0 +1,34 @@
+show
+execute_script lab5.6/src/script.txt
+add tesla_model_3
+619, 512
+900
+600
+
+3
+
+
+-----------------------
+add tesla_model_1
+319, 212
+960
+430
+2
+
+
+
+----------------------
+add tesla_model_222
+0, 0
+300
+8000
+
+
+
+---------------------
+mk dir dir1
+execute_script lab5.6/src/script2.txt
+
+
+save
+show

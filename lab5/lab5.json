@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "tesla_model_3",
+    "coordinates": {
+      "x": 619.0,
+      "y": 512.0
+    },
+    "creationDate": "2024-04-22",
+    "enginePower": 900.0,
+    "capacity": 600.0,
+    "fuelType": "NUCLEAR"
+  },
+  {
+    "id": 2,
+    "name": "tesla_model_66",
+    "coordinates": {
+      "x": 619.0,
+      "y": 512.0
+    },
+    "creationDate": "2024-04-22",
+    "enginePower": 900.0,
+    "capacity": 600.0,
+    "fuelType": "NUCLEAR"
+  },
+  {
+    "id": 3,
+    "name": "reno logan",
+    "coordinates": {
+      "x": 30.0,
+      "y": 30.0
+    },
+    "creationDate": "2024-04-22",
+    "enginePower": 9999.0,
+    "capacity": 9999.0,
+    "fuelType": "ANTIMATTER"
+  },
+  {
+    "id": 2,
+    "name": "toyota-supra",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "creationDate": "2024-04-22",
+    "enginePower": 22.0,
+    "distanceTravelled": 2.0,
+    "fuelType": "KEROSENE"
+  },
+  {
+    "id": 3,
+    "name": "tesla_model_77",
+    "coordinates": {
+      "x": 319.0,
+      "y": 212.0
+    },
+    "creationDate": "2024-04-22",
+    "enginePower": 960.0,
+    "capacity": 430.0,
+    "distanceTravelled": 2.0
+  },
+  {
+    "id": 4,
+    "name": "tesla_model_888",
+    "coordinates": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "creationDate": "2024-04-22",
+    "enginePower": 300.0,
+    "capacity": 8000.0
+  }
+]

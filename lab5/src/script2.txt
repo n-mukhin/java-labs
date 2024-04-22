@@ -1,0 +1,33 @@
+update_id 1
+bmw mx6
+619, 512
+900
+600
+
+4
+
+----
+ls
+---
+
+update_id 2
+toyota-supra
+1, 1
+22
+
+2
+2
+2
+
+----------
+cntr+D
+-----------
+
+
+update_id 3
+reno logan
+30, 30
+9999
+9999
+
+4
