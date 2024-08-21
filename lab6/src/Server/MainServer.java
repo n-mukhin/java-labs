@@ -24,10 +24,10 @@ public class MainServer {
     public static void main(String[] args) {
         BasicConfigurator.configure();
 
-        // Initialize the collection if needed
+        
         collectionManager.initializeCollectionIfNeeded(COLLECTION_FILE_PATH);
 
-        // Start the console listener in a separate thread
+        
         new Thread(new ConsoleListener(collectionManager, ENV_KEY)).start();
 
         try (Selector selector = Selector.open();
