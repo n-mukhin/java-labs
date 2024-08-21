@@ -11,7 +11,7 @@ public class GenerateScript {
     private Faker faker;
 
     public GenerateScript() {
-        // Initialize Faker
+     
         faker = new Faker();
     }
 
@@ -104,16 +104,16 @@ public class GenerateScript {
 
         if (isAddSelected) {
             for (int i = 0; i < count; i++) {
-                script.append(generateAddCommand(random)).append("\n\n\n\n\n"); // 10-line gap
+                script.append(generateAddCommand(random)).append("\n\n\n\n\n"); 
             }
         }
 
         if (isUpdateSelected) {
             for (int i = 0; i < count; i++) {
                 if (isAddSelected) {
-                    script.append(generateUpdateCommand(random, count)).append("\n\n\n\n\n"); // 10-line gap
+                    script.append(generateUpdateCommand(random, count)).append("\n\n\n\n\n"); 
                 } else {
-                    script.append(generateUpdateCommand(random, i + 1)).append("\n\n\n\n\n"); // 10-line gap
+                    script.append(generateUpdateCommand(random, i + 1)).append("\n\n\n\n\n"); 
                 }
             }
         }
@@ -142,12 +142,12 @@ public class GenerateScript {
         if (random.nextBoolean()) {
             commandBuilder.append(random.nextInt(99) + 1).append("\n");
         } else {
-            commandBuilder.append("\n"); // Empty field
+            commandBuilder.append("\n");
         }
         if (random.nextBoolean()) {
             commandBuilder.append(random.nextInt(99) + 1).append("\n");
         } else {
-            commandBuilder.append("\n"); // Empty field
+            commandBuilder.append("\n"); 
         }
 
         if (random.nextBoolean()) {
@@ -166,22 +166,22 @@ public class GenerateScript {
         commandBuilder.append(random.nextInt(99) + 1).append("\n");
         commandBuilder.append(random.nextInt(99) + 1).append("\n");
         commandBuilder.append(random.nextInt(99) + 1).append("\n");
-        // Handle two penultimate fields which can be empty
+        
         if (random.nextBoolean()) {
-            commandBuilder.append(random.nextInt(99) + 1).append("\n"); // Ensure non-zero
+            commandBuilder.append(random.nextInt(99) + 1).append("\n"); 
         } else {
-            commandBuilder.append("\n"); // Empty field
+            commandBuilder.append("\n"); 
         }
         if (random.nextBoolean()) {
-            commandBuilder.append(random.nextInt(99) + 1).append("\n"); // Ensure non-zero
+            commandBuilder.append(random.nextInt(99) + 1).append("\n");
         } else {
-            commandBuilder.append("\n"); // Empty field
+            commandBuilder.append("\n"); 
         }
-        // Handle the last field which can be empty or a number from 1 to 4
+        
         if (random.nextBoolean()) {
-            commandBuilder.append(random.nextInt(4) + 1).append("\n"); // Number from 1 to 4
+            commandBuilder.append(random.nextInt(4) + 1).append("\n"); 
         } else {
-            commandBuilder.append("\n"); // Empty field
+            commandBuilder.append("\n"); 
         }
         return commandBuilder.toString();
     }
