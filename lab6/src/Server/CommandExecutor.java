@@ -30,7 +30,7 @@ public class CommandExecutor {
     }
 
     private static Response executeCommand(Command command, CollectionManager collectionManager, String userId) throws InterruptedException {
-        // Добавляем задержку 10 мс перед выполнением команды
+        
         Thread.sleep(10);
 
         switch (command.getType()) {
@@ -176,7 +176,7 @@ public class CommandExecutor {
             while ((line = reader.readLine()) != null) {
                 line = line.trim();
                 if (line.isEmpty()) {
-                    continue; // Skip empty lines
+                    continue; 
                 }
                 System.out.println("Reading line: " + line);
                 String[] parts = line.split("\\s+", 2);
@@ -185,7 +185,7 @@ public class CommandExecutor {
 
                 Command scriptCommand = null;
                 try {
-                    // Add a delay of 10 ms before executing each command in the script
+                    
                     Thread.sleep(10);
 
                     switch (commandName.toLowerCase()) {
@@ -249,7 +249,7 @@ public class CommandExecutor {
                 }
             }
 
-            // Execute commands in sequence
+        
             for (Command cmd : commands) {
                 executeCommand(cmd, collectionManager, userId);
             }
