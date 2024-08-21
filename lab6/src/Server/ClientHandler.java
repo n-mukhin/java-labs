@@ -20,7 +20,7 @@ public class ClientHandler implements Runnable {
     private final String userId;
     private final Selector selector;
     private final ExecutorService executorService = Executors.newCachedThreadPool();
-    private final ByteBuffer readBuffer = ByteBuffer.allocate(10240); // Увеличенный размер буфера
+    private final ByteBuffer readBuffer = ByteBuffer.allocate(10240);
 
     public ClientHandler(SocketChannel client, CollectionManager collectionManager, String envKey, String userId, Selector selector) {
         this.client = client;
@@ -57,7 +57,7 @@ public class ClientHandler implements Runnable {
 
             logger.info("Received command: " + command.getType());
 
-            // Execute the command in a separate thread and handle the response asynchronously
+            
             executorService.submit(() -> {
                 try {
                     CommandExecutor.execute(command, collectionManager, userId, this::sendResponse);
