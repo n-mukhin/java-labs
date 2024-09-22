@@ -1,0 +1,25000 @@
+add Tesla Model S
+40
+87
+5
+
+40
+
+
+
+
+
+
+add Hyundai Kona Electric
+33
+45
+4
+86
+
+3
+
+
+
+
+
+add Rivian R1S
+53
+43
+99
+77
+
+2
+
+
+
+
+
+add Hyundai Ioniq 5
+85
+56
+62
+
+
+3
+
+
+
+
+
+add Ford Mustang Mach-E
+1
+17
+3
+
+
+1
+
+
+
+
+
+add Mercedes-Benz EQC
+96
+13
+6
+
+
+3
+
+
+
+
+
+add Nissan Leaf
+80
+96
+25
+4
+40
+3
+
+
+
+
+
+add Tesla Model 3
+95
+54
+32
+32
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+17
+17
+5
+45
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+24
+95
+77
+
+
+
+
+
+
+
+
+add Tesla Model S
+88
+62
+32
+66
+
+
+
+
+
+
+
+add Toyota bZ4X
+77
+33
+31
+88
+
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+76
+89
+79
+84
+24
+1
+
+
+
+
+
+add Porsche Taycan
+57
+75
+40
+
+
+1
+
+
+
+
+
+add Chevrolet Corvette
+79
+39
+91
+
+
+4
+
+
+
+
+
+add Porsche Taycan
+57
+34
+21
+
+35
+
+
+
+
+
+
+add Chevrolet Bolt EV
+55
+21
+65
+
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+45
+51
+87
+92
+
+
+
+
+
+
+
+add Polestar 2
+92
+26
+78
+
+
+
+
+
+
+
+
+add BMW iX
+74
+55
+42
+61
+
+2
+
+
+
+
+
+add Lucid Air
+38
+77
+42
+43
+70
+
+
+
+
+
+
+add Ford Mustang Mach-E
+90
+52
+59
+28
+
+4
+
+
+
+
+
+add Jaguar I-Pace
+62
+78
+47
+39
+30
+
+
+
+
+
+
+add Mazda MX-30
+25
+52
+92
+49
+17
+2
+
+
+
+
+
+add Tesla Model Y
+90
+10
+68
+
+
+
+
+
+
+
+
+add BMW iX
+29
+5
+73
+
+
+
+
+
+
+
+
+add Tesla Model 3
+67
+85
+37
+
+19
+
+
+
+
+
+
+add Kia EV6
+53
+36
+19
+
+
+
+
+
+
+
+
+add Jaguar I-Pace
+58
+30
+98
+69
+
+3
+
+
+
+
+
+add Hyundai Ioniq 5
+20
+27
+22
+89
+54
+3
+
+
+
+
+
+add Kia EV6
+48
+98
+44
+62
+
+4
+
+
+
+
+
+add Porsche Taycan
+15
+39
+49
+
+
+4
+
+
+
+
+
+add Kia Niro EV
+26
+66
+30
+55
+
+3
+
+
+
+
+
+add Tesla Model S
+87
+72
+62
+66
+71
+3
+
+
+
+
+
+add Ford Mustang Mach-E
+47
+86
+33
+86
+68
+1
+
+
+
+
+
+add Audi Q4 e-tron
+6
+68
+72
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+2
+9
+38
+49
+43
+1
+
+
+
+
+
+add Chevrolet Bolt EV
+35
+91
+29
+38
+
+
+
+
+
+
+
+add Jaguar I-Pace
+26
+24
+34
+
+
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+45
+40
+60
+24
+
+
+
+
+
+
+
+add Nissan Leaf
+91
+19
+46
+49
+
+4
+
+
+
+
+
+add Hyundai Ioniq 5
+17
+10
+67
+6
+
+
+
+
+
+
+
+add Rivian R1S
+41
+18
+16
+15
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+51
+47
+29
+11
+81
+
+
+
+
+
+
+add Toyota bZ4X
+47
+94
+76
+73
+24
+
+
+
+
+
+
+add Nissan Leaf
+86
+31
+80
+32
+38
+1
+
+
+
+
+
+add Chevrolet Corvette
+77
+42
+73
+5
+
+
+
+
+
+
+
+add Tesla Model 3
+17
+74
+43
+
+83
+
+
+
+
+
+
+add Chevrolet Corvette
+50
+78
+17
+84
+
+
+
+
+
+
+
+add Volvo XC40 Recharge
+67
+17
+24
+96
+
+2
+
+
+
+
+
+add Ford Mustang Mach-E
+70
+70
+8
+72
+
+4
+
+
+
+
+
+add Kia EV6
+86
+89
+28
+
+12
+1
+
+
+
+
+
+add Toyota bZ4X
+58
+51
+57
+
+78
+
+
+
+
+
+
+add Tesla Model S
+10
+84
+25
+99
+
+
+
+
+
+
+
+add Chevrolet Corvette
+22
+58
+11
+40
+73
+1
+
+
+
+
+
+add Kia Niro EV
+68
+8
+15
+
+
+
+
+
+
+
+
+add Ford F-150 Lightning
+47
+55
+97
+13
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+14
+26
+16
+45
+58
+
+
+
+
+
+
+add Volkswagen ID.4
+28
+85
+23
+94
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+24
+83
+23
+38
+
+
+
+
+
+
+
+add Subaru Solterra
+66
+21
+87
+48
+85
+4
+
+
+
+
+
+add Chevrolet Corvette
+88
+32
+16
+26
+10
+3
+
+
+
+
+
+add Toyota bZ4X
+56
+30
+53
+74
+10
+3
+
+
+
+
+
+add Lucid Air
+37
+32
+44
+97
+51
+3
+
+
+
+
+
+add Subaru Solterra
+11
+76
+88
+85
+
+
+
+
+
+
+
+add Nissan Leaf
+73
+76
+37
+
+94
+
+
+
+
+
+
+add Toyota bZ4X
+16
+34
+99
+26
+
+
+
+
+
+
+
+add Jaguar I-Pace
+82
+10
+91
+
+76
+4
+
+
+
+
+
+add Hyundai Kona Electric
+3
+58
+31
+48
+45
+
+
+
+
+
+
+add Hyundai Ioniq 5
+90
+99
+6
+23
+
+
+
+
+
+
+
+add Porsche Taycan
+89
+82
+59
+80
+21
+
+
+
+
+
+
+add Chevrolet Bolt EV
+77
+48
+66
+
+
+2
+
+
+
+
+
+add Hyundai Kona Electric
+20
+69
+12
+
+37
+4
+
+
+
+
+
+add BMW i4
+18
+16
+83
+24
+
+2
+
+
+
+
+
+add Audi Q4 e-tron
+60
+79
+49
+
+
+1
+
+
+
+
+
+add Tesla Model 3
+58
+81
+9
+95
+
+3
+
+
+
+
+
+add Mazda MX-30
+57
+52
+77
+18
+91
+
+
+
+
+
+
+add Audi Q4 e-tron
+75
+6
+62
+13
+21
+
+
+
+
+
+
+add Tesla Model S
+40
+89
+70
+18
+93
+4
+
+
+
+
+
+add Lucid Air
+38
+68
+72
+
+6
+1
+
+
+
+
+
+add Rivian R1T
+26
+15
+62
+
+
+
+
+
+
+
+
+add Tesla Model Y
+19
+88
+1
+78
+50
+1
+
+
+
+
+
+add Tesla Model Y
+72
+93
+51
+
+
+
+
+
+
+
+
+add Tesla Model S
+20
+14
+6
+
+
+3
+
+
+
+
+
+add Porsche Taycan
+78
+17
+26
+
+
+
+
+
+
+
+
+add BMW iX
+53
+68
+14
+6
+14
+
+
+
+
+
+
+add Jaguar I-Pace
+44
+16
+17
+
+
+3
+
+
+
+
+
+add BMW iX
+61
+13
+30
+46
+9
+
+
+
+
+
+
+add Audi Q4 e-tron
+32
+25
+88
+
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+88
+60
+7
+33
+71
+4
+
+
+
+
+
+add Nissan Leaf
+40
+73
+97
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+77
+72
+89
+29
+68
+
+
+
+
+
+
+add BMW i4
+51
+38
+67
+82
+
+
+
+
+
+
+
+add Nissan Leaf
+83
+53
+99
+52
+
+2
+
+
+
+
+
+add Hyundai Ioniq 5
+25
+92
+6
+24
+29
+4
+
+
+
+
+
+add Ford F-150 Lightning
+73
+49
+44
+72
+34
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+85
+10
+24
+
+64
+2
+
+
+
+
+
+add Toyota bZ4X
+51
+41
+49
+46
+15
+4
+
+
+
+
+
+add Audi e-tron GT
+10
+87
+18
+
+
+
+
+
+
+
+
+add Lucid Air
+16
+98
+27
+
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+51
+15
+50
+20
+83
+
+
+
+
+
+
+add Jaguar I-Pace
+49
+61
+12
+67
+
+
+
+
+
+
+
+add Subaru Solterra
+1
+29
+94
+
+6
+1
+
+
+
+
+
+add Kia Niro EV
+49
+41
+91
+14
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+45
+99
+48
+5
+
+2
+
+
+
+
+
+add Polestar 2
+84
+5
+13
+26
+65
+
+
+
+
+
+
+add Jaguar I-Pace
+94
+32
+50
+89
+
+2
+
+
+
+
+
+add Chevrolet Bolt EV
+89
+67
+25
+
+25
+
+
+
+
+
+
+add Nissan Leaf
+59
+80
+54
+9
+37
+
+
+
+
+
+
+add Ford Mustang Mach-E
+21
+75
+31
+86
+12
+3
+
+
+
+
+
+add Volvo XC40 Recharge
+33
+42
+95
+29
+
+
+
+
+
+
+
+add Audi e-tron GT
+26
+76
+34
+46
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+22
+46
+82
+25
+
+2
+
+
+
+
+
+add Audi e-tron GT
+64
+99
+17
+86
+83
+
+
+
+
+
+
+add Tesla Model 3
+78
+91
+20
+
+59
+1
+
+
+
+
+
+add Tesla Model 3
+86
+86
+22
+7
+11
+1
+
+
+
+
+
+add Volkswagen ID.4
+17
+45
+39
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+80
+95
+72
+43
+
+
+
+
+
+
+
+add Polestar 2
+33
+44
+48
+75
+58
+3
+
+
+
+
+
+add Polestar 2
+83
+81
+68
+
+
+
+
+
+
+
+
+add Porsche Taycan
+20
+50
+65
+
+79
+2
+
+
+
+
+
+add Volvo XC40 Recharge
+92
+72
+73
+31
+
+
+
+
+
+
+
+add Chevrolet Corvette
+40
+30
+78
+77
+
+
+
+
+
+
+
+add Nissan Leaf
+26
+36
+96
+48
+
+
+
+
+
+
+
+add Tesla Model Y
+44
+5
+31
+17
+
+
+
+
+
+
+
+add Chevrolet Corvette
+9
+71
+93
+
+
+
+
+
+
+
+
+add Audi e-tron GT
+72
+4
+69
+
+
+2
+
+
+
+
+
+add Tesla Model 3
+91
+11
+18
+
+
+
+
+
+
+
+
+add Kia EV6
+20
+30
+34
+45
+
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+87
+12
+44
+79
+
+2
+
+
+
+
+
+add Kia Niro EV
+86
+81
+14
+85
+25
+1
+
+
+
+
+
+add Audi e-tron GT
+63
+35
+2
+48
+
+
+
+
+
+
+
+add Nissan Leaf
+63
+10
+71
+21
+
+3
+
+
+
+
+
+add Tesla Model S
+12
+8
+34
+
+43
+3
+
+
+
+
+
+add Kia EV6
+93
+16
+34
+31
+
+
+
+
+
+
+
+add Tesla Model 3
+40
+48
+79
+40
+
+3
+
+
+
+
+
+add Tesla Model Y
+12
+37
+99
+
+
+
+
+
+
+
+
+add Polestar 2
+76
+82
+70
+42
+
+1
+
+
+
+
+
+add Tesla Model Y
+70
+39
+23
+6
+20
+
+
+
+
+
+
+add Mazda MX-30
+11
+32
+21
+
+
+
+
+
+
+
+
+add Kia Niro EV
+9
+80
+59
+97
+
+
+
+
+
+
+
+add Tesla Model 3
+60
+64
+34
+21
+
+
+
+
+
+
+
+add Lucid Air
+78
+25
+82
+
+19
+
+
+
+
+
+
+add Nissan Leaf
+43
+43
+37
+
+
+2
+
+
+
+
+
+add Chevrolet Corvette
+73
+70
+67
+92
+82
+4
+
+
+
+
+
+add Subaru Solterra
+38
+24
+1
+90
+
+
+
+
+
+
+
+add Kia EV6
+75
+6
+50
+
+5
+
+
+
+
+
+
+add Jaguar I-Pace
+95
+56
+35
+41
+21
+1
+
+
+
+
+
+add Tesla Model S
+87
+41
+28
+71
+3
+2
+
+
+
+
+
+add Toyota bZ4X
+65
+15
+48
+
+
+4
+
+
+
+
+
+add Mercedes-Benz EQS
+28
+22
+43
+38
+
+3
+
+
+
+
+
+add Chevrolet Bolt EV
+30
+7
+74
+
+54
+1
+
+
+
+
+
+add Mercedes-Benz EQC
+96
+38
+8
+
+
+
+
+
+
+
+
+add Rivian R1S
+66
+85
+86
+
+
+
+
+
+
+
+
+add Porsche Taycan
+77
+92
+46
+43
+57
+1
+
+
+
+
+
+add Jaguar I-Pace
+3
+78
+55
+
+
+4
+
+
+
+
+
+add Chevrolet Corvette
+93
+92
+82
+
+
+
+
+
+
+
+
+add BMW iX
+38
+13
+28
+
+54
+3
+
+
+
+
+
+add BMW iX
+27
+10
+90
+94
+52
+4
+
+
+
+
+
+add Chevrolet Bolt EV
+35
+26
+46
+
+79
+4
+
+
+
+
+
+add Mercedes-Benz EQC
+32
+82
+2
+36
+43
+
+
+
+
+
+
+add Kia EV6
+55
+93
+27
+
+96
+3
+
+
+
+
+
+add Lucid Air
+47
+78
+34
+
+43
+3
+
+
+
+
+
+add Tesla Model X
+38
+31
+46
+
+90
+2
+
+
+
+
+
+add Chevrolet Bolt EV
+47
+87
+13
+
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+47
+15
+29
+
+
+3
+
+
+
+
+
+add Rivian R1S
+71
+6
+45
+39
+91
+
+
+
+
+
+
+add Chevrolet Bolt EV
+72
+51
+15
+41
+
+4
+
+
+
+
+
+add Volvo XC40 Recharge
+46
+81
+27
+
+43
+3
+
+
+
+
+
+add Tesla Model S
+42
+87
+32
+21
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+3
+98
+70
+
+32
+
+
+
+
+
+
+add Ford F-150 Lightning
+28
+73
+6
+
+31
+
+
+
+
+
+
+add Subaru Solterra
+26
+65
+42
+36
+
+1
+
+
+
+
+
+add Tesla Model S
+37
+48
+58
+87
+
+
+
+
+
+
+
+add Volvo XC40 Recharge
+13
+29
+99
+27
+69
+
+
+
+
+
+
+add Rivian R1S
+79
+83
+79
+
+
+1
+
+
+
+
+
+add Tesla Model 3
+4
+61
+1
+79
+
+
+
+
+
+
+
+add Subaru Solterra
+50
+83
+52
+
+
+2
+
+
+
+
+
+add Mercedes-Benz EQC
+89
+34
+98
+
+65
+1
+
+
+
+
+
+add Porsche Taycan
+17
+12
+13
+53
+
+4
+
+
+
+
+
+add Tesla Model S
+96
+51
+25
+52
+29
+
+
+
+
+
+
+add Mercedes-Benz EQS
+15
+31
+40
+
+
+3
+
+
+
+
+
+add Mercedes-Benz EQS
+67
+27
+2
+50
+
+3
+
+
+
+
+
+add Lucid Air
+18
+64
+96
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+89
+42
+60
+35
+
+
+
+
+
+
+
+add Chevrolet Corvette
+66
+65
+51
+
+
+1
+
+
+
+
+
+add Tesla Model X
+88
+59
+99
+43
+
+4
+
+
+
+
+
+add Ford F-150 Lightning
+65
+93
+51
+
+
+
+
+
+
+
+
+add Tesla Model S
+70
+53
+69
+5
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+38
+62
+17
+15
+
+2
+
+
+
+
+
+add Chevrolet Corvette
+93
+19
+52
+
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+41
+60
+16
+
+59
+3
+
+
+
+
+
+add Lucid Air
+40
+43
+33
+
+
+
+
+
+
+
+
+add Subaru Solterra
+21
+32
+69
+
+70
+3
+
+
+
+
+
+add Toyota bZ4X
+45
+60
+82
+
+
+
+
+
+
+
+
+add Rivian R1S
+12
+45
+90
+24
+86
+
+
+
+
+
+
+add Chevrolet Corvette
+26
+47
+12
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+24
+15
+34
+90
+95
+
+
+
+
+
+
+add Hyundai Kona Electric
+76
+39
+94
+87
+45
+1
+
+
+
+
+
+add Volkswagen ID.4
+82
+82
+16
+59
+
+
+
+
+
+
+
+add Kia Niro EV
+37
+63
+53
+35
+26
+1
+
+
+
+
+
+add Rivian R1S
+4
+58
+1
+81
+
+
+
+
+
+
+
+add Rivian R1S
+35
+7
+16
+
+
+2
+
+
+
+
+
+add Tesla Model X
+26
+16
+35
+
+86
+3
+
+
+
+
+
+add Subaru Solterra
+68
+68
+7
+59
+
+1
+
+
+
+
+
+add Kia Niro EV
+72
+86
+95
+
+39
+
+
+
+
+
+
+add Ford Mustang Mach-E
+69
+48
+32
+48
+66
+4
+
+
+
+
+
+add Subaru Solterra
+91
+49
+51
+
+
+3
+
+
+
+
+
+add Subaru Solterra
+8
+13
+93
+
+73
+4
+
+
+
+
+
+add Jaguar I-Pace
+48
+63
+63
+
+49
+
+
+
+
+
+
+add Ford F-150 Lightning
+94
+12
+28
+
+85
+1
+
+
+
+
+
+add Nissan Leaf
+3
+94
+19
+
+
+
+
+
+
+
+
+add Kia EV6
+77
+11
+49
+25
+46
+
+
+
+
+
+
+add Volkswagen ID.4
+81
+13
+47
+83
+62
+4
+
+
+
+
+
+add Tesla Model S
+67
+16
+7
+
+81
+
+
+
+
+
+
+add Volvo XC40 Recharge
+93
+82
+89
+15
+53
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+73
+7
+56
+
+77
+
+
+
+
+
+
+add Polestar 2
+31
+73
+25
+
+5
+
+
+
+
+
+
+add BMW iX
+45
+67
+57
+
+
+4
+
+
+
+
+
+add Volvo XC40 Recharge
+21
+23
+2
+
+88
+
+
+
+
+
+
+add Jaguar I-Pace
+50
+68
+60
+
+
+2
+
+
+
+
+
+add Polestar 2
+35
+61
+45
+92
+
+1
+
+
+
+
+
+add Toyota bZ4X
+32
+59
+46
+
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+25
+18
+83
+13
+6
+1
+
+
+
+
+
+add Ford Mustang Mach-E
+37
+48
+82
+
+
+
+
+
+
+
+
+add Lucid Air
+14
+66
+64
+11
+58
+
+
+
+
+
+
+add Chevrolet Corvette
+35
+68
+36
+
+
+
+
+
+
+
+
+add Rivian R1T
+99
+79
+63
+92
+36
+
+
+
+
+
+
+add BMW i4
+72
+96
+25
+
+
+
+
+
+
+
+
+add Tesla Model 3
+23
+80
+49
+
+32
+
+
+
+
+
+
+add Volvo XC40 Recharge
+43
+86
+94
+
+
+1
+
+
+
+
+
+add Volkswagen ID.4
+13
+29
+21
+60
+
+4
+
+
+
+
+
+add Rivian R1T
+93
+55
+43
+
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+51
+80
+11
+34
+
+1
+
+
+
+
+
+add Ford Mustang Mach-E
+55
+5
+42
+91
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+23
+28
+15
+
+70
+3
+
+
+
+
+
+add Rivian R1T
+31
+10
+86
+77
+64
+
+
+
+
+
+
+add Chevrolet Bolt EV
+49
+93
+60
+
+70
+4
+
+
+
+
+
+add Tesla Model 3
+16
+72
+36
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+59
+39
+85
+95
+
+1
+
+
+
+
+
+add Tesla Model 3
+85
+53
+82
+92
+
+2
+
+
+
+
+
+add Lucid Air
+45
+51
+14
+
+
+3
+
+
+
+
+
+add Tesla Model 3
+47
+89
+54
+31
+
+1
+
+
+
+
+
+add Audi Q4 e-tron
+96
+65
+64
+91
+
+2
+
+
+
+
+
+add Ford Mustang Mach-E
+98
+19
+56
+67
+
+2
+
+
+
+
+
+add Tesla Model X
+36
+96
+32
+
+
+4
+
+
+
+
+
+add Volvo XC40 Recharge
+68
+17
+90
+20
+
+
+
+
+
+
+
+add Nissan Leaf
+44
+76
+72
+
+
+2
+
+
+
+
+
+add Kia Niro EV
+44
+58
+25
+
+50
+3
+
+
+
+
+
+add Ford Mustang Mach-E
+44
+91
+81
+3
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+32
+84
+45
+
+80
+
+
+
+
+
+
+add Nissan Leaf
+99
+53
+5
+
+77
+
+
+
+
+
+
+add Tesla Model S
+60
+70
+36
+
+
+1
+
+
+
+
+
+add Chevrolet Bolt EV
+96
+64
+17
+20
+
+
+
+
+
+
+
+add Mazda MX-30
+86
+30
+34
+
+26
+
+
+
+
+
+
+add Jaguar I-Pace
+5
+80
+83
+
+56
+
+
+
+
+
+
+add Rivian R1S
+72
+63
+35
+99
+
+
+
+
+
+
+
+add Chevrolet Corvette
+30
+1
+7
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+53
+59
+23
+
+18
+3
+
+
+
+
+
+add Jaguar I-Pace
+88
+15
+67
+
+11
+
+
+
+
+
+
+add Chevrolet Corvette
+43
+78
+52
+42
+
+2
+
+
+
+
+
+add Tesla Model Y
+22
+3
+42
+37
+89
+
+
+
+
+
+
+add Hyundai Ioniq 5
+76
+99
+12
+91
+
+
+
+
+
+
+
+add Tesla Model S
+94
+59
+51
+
+54
+4
+
+
+
+
+
+add Ford F-150 Lightning
+4
+53
+28
+90
+43
+
+
+
+
+
+
+add Mercedes-Benz EQC
+28
+66
+67
+44
+88
+3
+
+
+
+
+
+add Rivian R1S
+35
+19
+50
+55
+78
+3
+
+
+
+
+
+add Mazda MX-30
+3
+8
+82
+
+
+
+
+
+
+
+
+add Kia EV6
+75
+75
+29
+
+27
+
+
+
+
+
+
+add Mercedes-Benz EQC
+39
+54
+62
+25
+80
+
+
+
+
+
+
+add Polestar 2
+54
+28
+20
+79
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+34
+22
+11
+
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+50
+48
+49
+20
+92
+3
+
+
+
+
+
+add BMW i4
+21
+31
+15
+
+
+2
+
+
+
+
+
+add Chevrolet Bolt EV
+88
+12
+76
+
+
+4
+
+
+
+
+
+add Polestar 2
+27
+97
+17
+
+
+3
+
+
+
+
+
+add Hyundai Ioniq 5
+28
+83
+6
+72
+
+3
+
+
+
+
+
+add Lucid Air
+44
+86
+78
+
+75
+2
+
+
+
+
+
+add Volvo XC40 Recharge
+53
+57
+89
+37
+
+
+
+
+
+
+
+add Audi e-tron GT
+9
+69
+62
+
+
+1
+
+
+
+
+
+add Ford Mustang Mach-E
+63
+8
+35
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+69
+84
+32
+
+
+2
+
+
+
+
+
+add Volkswagen ID.4
+51
+16
+82
+
+44
+1
+
+
+
+
+
+add Tesla Model 3
+97
+58
+8
+53
+62
+
+
+
+
+
+
+add Jaguar I-Pace
+30
+62
+27
+
+50
+3
+
+
+
+
+
+add Audi e-tron GT
+51
+60
+88
+64
+29
+1
+
+
+
+
+
+add Tesla Model 3
+84
+50
+1
+91
+
+1
+
+
+
+
+
+add Hyundai Ioniq 5
+68
+47
+92
+
+92
+3
+
+
+
+
+
+add Tesla Model X
+35
+33
+28
+98
+97
+3
+
+
+
+
+
+add Ford F-150 Lightning
+81
+71
+25
+
+
+4
+
+
+
+
+
+add Tesla Model X
+61
+50
+25
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+96
+9
+10
+
+30
+3
+
+
+
+
+
+add Mercedes-Benz EQS
+68
+60
+77
+
+15
+
+
+
+
+
+
+add Tesla Model S
+2
+57
+93
+89
+93
+4
+
+
+
+
+
+add Volkswagen ID.4
+10
+49
+3
+
+52
+3
+
+
+
+
+
+add BMW iX
+61
+4
+30
+
+42
+4
+
+
+
+
+
+add Ford Mustang Mach-E
+42
+98
+84
+60
+24
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+42
+68
+97
+
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+24
+8
+49
+9
+60
+1
+
+
+
+
+
+add Volvo XC40 Recharge
+77
+18
+56
+
+32
+1
+
+
+
+
+
+add Volkswagen ID.4
+66
+30
+46
+31
+
+
+
+
+
+
+
+add Jaguar I-Pace
+33
+10
+53
+
+24
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+40
+43
+18
+
+
+1
+
+
+
+
+
+add Tesla Model X
+57
+13
+15
+53
+
+
+
+
+
+
+
+add Jaguar I-Pace
+18
+92
+41
+58
+78
+3
+
+
+
+
+
+add Nissan Leaf
+69
+60
+76
+94
+19
+2
+
+
+
+
+
+add Audi Q4 e-tron
+21
+66
+74
+30
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+82
+49
+63
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+70
+79
+83
+
+
+4
+
+
+
+
+
+add BMW iX
+85
+97
+96
+71
+16
+
+
+
+
+
+
+add Hyundai Kona Electric
+46
+70
+66
+11
+31
+4
+
+
+
+
+
+add Lucid Air
+39
+12
+9
+1
+57
+4
+
+
+
+
+
+add Ford Mustang Mach-E
+76
+54
+28
+
+28
+
+
+
+
+
+
+add Ford F-150 Lightning
+23
+94
+60
+25
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+51
+61
+66
+6
+95
+
+
+
+
+
+
+add Hyundai Kona Electric
+73
+99
+10
+55
+89
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+86
+56
+14
+11
+42
+3
+
+
+
+
+
+add Toyota bZ4X
+28
+31
+88
+
+83
+
+
+
+
+
+
+add Ford F-150 Lightning
+47
+32
+51
+6
+
+2
+
+
+
+
+
+add BMW i4
+67
+61
+76
+24
+48
+3
+
+
+
+
+
+add Hyundai Ioniq 5
+22
+83
+37
+47
+
+1
+
+
+
+
+
+add Audi Q4 e-tron
+89
+57
+57
+63
+
+1
+
+
+
+
+
+add Chevrolet Bolt EV
+76
+21
+70
+20
+
+2
+
+
+
+
+
+add Polestar 2
+77
+36
+99
+17
+
+2
+
+
+
+
+
+add Jaguar I-Pace
+89
+28
+81
+
+55
+
+
+
+
+
+
+add Kia EV6
+23
+11
+71
+
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+76
+36
+37
+
+93
+4
+
+
+
+
+
+add BMW iX
+89
+87
+5
+47
+10
+
+
+
+
+
+
+add Porsche Taycan
+47
+98
+94
+95
+68
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+31
+72
+16
+25
+
+
+
+
+
+
+
+add BMW iX
+42
+12
+73
+
+92
+4
+
+
+
+
+
+add Audi Q4 e-tron
+74
+12
+76
+
+31
+3
+
+
+
+
+
+add Tesla Model Y
+23
+42
+52
+32
+28
+
+
+
+
+
+
+add Jaguar I-Pace
+89
+24
+51
+74
+79
+
+
+
+
+
+
+add Ford F-150 Lightning
+56
+53
+10
+
+
+
+
+
+
+
+
+add Tesla Model S
+48
+54
+94
+
+
+4
+
+
+
+
+
+add Lucid Air
+52
+2
+86
+
+
+4
+
+
+
+
+
+add Kia Niro EV
+30
+62
+65
+37
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+92
+64
+40
+91
+96
+2
+
+
+
+
+
+add Mercedes-Benz EQC
+42
+36
+90
+
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+24
+36
+67
+
+
+
+
+
+
+
+
+add Tesla Model S
+52
+99
+49
+52
+48
+
+
+
+
+
+
+add Audi e-tron GT
+71
+14
+94
+
+
+3
+
+
+
+
+
+add Tesla Model S
+51
+72
+21
+
+
+4
+
+
+
+
+
+add Volkswagen ID.4
+1
+11
+66
+
+83
+
+
+
+
+
+
+add Kia EV6
+57
+45
+53
+91
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+64
+82
+14
+33
+
+
+
+
+
+
+
+add Tesla Model X
+80
+32
+50
+40
+46
+
+
+
+
+
+
+add Audi e-tron GT
+43
+50
+2
+35
+65
+
+
+
+
+
+
+add Volvo XC40 Recharge
+14
+53
+49
+
+23
+3
+
+
+
+
+
+add Porsche Taycan
+34
+78
+89
+
+
+4
+
+
+
+
+
+add Tesla Model Y
+8
+86
+37
+
+
+4
+
+
+
+
+
+add Subaru Solterra
+95
+3
+43
+
+78
+
+
+
+
+
+
+add Hyundai Kona Electric
+10
+84
+74
+
+
+4
+
+
+
+
+
+add Rivian R1T
+67
+71
+23
+10
+85
+4
+
+
+
+
+
+add Tesla Model S
+81
+37
+10
+
+49
+1
+
+
+
+
+
+add Porsche Taycan
+44
+51
+80
+62
+
+3
+
+
+
+
+
+add Lucid Air
+69
+45
+68
+
+
+
+
+
+
+
+
+add Tesla Model Y
+2
+62
+28
+
+
+
+
+
+
+
+
+add Tesla Model Y
+61
+28
+61
+62
+
+3
+
+
+
+
+
+add Polestar 2
+73
+59
+63
+84
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+19
+48
+26
+83
+
+2
+
+
+
+
+
+add Audi e-tron GT
+56
+62
+43
+
+
+4
+
+
+
+
+
+add Kia Niro EV
+79
+5
+73
+
+93
+4
+
+
+
+
+
+add Mercedes-Benz EQS
+38
+10
+95
+67
+59
+1
+
+
+
+
+
+add Subaru Solterra
+24
+37
+53
+4
+
+3
+
+
+
+
+
+add Volvo XC40 Recharge
+43
+1
+86
+46
+
+2
+
+
+
+
+
+add Jaguar I-Pace
+26
+49
+66
+51
+
+1
+
+
+
+
+
+add Rivian R1T
+73
+74
+52
+7
+8
+2
+
+
+
+
+
+add Audi Q4 e-tron
+48
+63
+33
+
+
+4
+
+
+
+
+
+add Porsche Taycan
+71
+86
+77
+70
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+74
+51
+48
+89
+
+
+
+
+
+
+
+add Lucid Air
+47
+87
+10
+
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+11
+74
+59
+
+
+
+
+
+
+
+
+add Kia Niro EV
+88
+97
+37
+48
+
+
+
+
+
+
+
+add Rivian R1T
+72
+6
+26
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+14
+66
+87
+
+
+3
+
+
+
+
+
+add Jaguar I-Pace
+57
+6
+87
+
+21
+
+
+
+
+
+
+add Kia Niro EV
+91
+38
+36
+60
+82
+
+
+
+
+
+
+add Mercedes-Benz EQC
+6
+82
+10
+
+
+2
+
+
+
+
+
+add Mercedes-Benz EQC
+20
+73
+13
+87
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+60
+6
+57
+51
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+8
+45
+84
+34
+66
+3
+
+
+
+
+
+add Volvo XC40 Recharge
+47
+32
+12
+
+
+4
+
+
+
+
+
+add Mercedes-Benz EQS
+9
+47
+55
+
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+14
+51
+51
+88
+
+
+
+
+
+
+
+add BMW i4
+88
+90
+79
+37
+90
+4
+
+
+
+
+
+add Chevrolet Corvette
+25
+89
+41
+
+39
+1
+
+
+
+
+
+add Volvo XC40 Recharge
+48
+15
+98
+22
+
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+67
+2
+83
+
+
+1
+
+
+
+
+
+add Volkswagen ID.4
+59
+38
+39
+26
+23
+3
+
+
+
+
+
+add Hyundai Kona Electric
+35
+94
+74
+20
+70
+
+
+
+
+
+
+add BMW iX
+42
+88
+7
+24
+
+
+
+
+
+
+
+add BMW i4
+11
+16
+42
+
+
+3
+
+
+
+
+
+add Volvo XC40 Recharge
+79
+51
+98
+98
+28
+1
+
+
+
+
+
+add Polestar 2
+50
+95
+98
+57
+98
+4
+
+
+
+
+
+add Audi e-tron GT
+60
+24
+14
+74
+
+1
+
+
+
+
+
+add Mercedes-Benz EQC
+63
+27
+46
+69
+
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+18
+8
+70
+9
+72
+4
+
+
+
+
+
+add Rivian R1T
+45
+38
+1
+8
+82
+
+
+
+
+
+
+add BMW i4
+41
+3
+26
+36
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+33
+36
+83
+40
+87
+2
+
+
+
+
+
+add Nissan Leaf
+47
+59
+88
+13
+67
+
+
+
+
+
+
+add Mercedes-Benz EQC
+61
+14
+62
+
+48
+4
+
+
+
+
+
+add Mercedes-Benz EQS
+54
+96
+27
+
+9
+3
+
+
+
+
+
+add Chevrolet Corvette
+1
+55
+47
+10
+23
+
+
+
+
+
+
+add Rivian R1S
+50
+5
+19
+2
+64
+4
+
+
+
+
+
+add Mercedes-Benz EQC
+29
+38
+92
+51
+
+1
+
+
+
+
+
+add Kia EV6
+68
+94
+57
+
+
+
+
+
+
+
+
+add Rivian R1S
+26
+66
+19
+
+
+3
+
+
+
+
+
+add Rivian R1T
+65
+91
+93
+
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+2
+37
+96
+
+
+1
+
+
+
+
+
+add Volvo XC40 Recharge
+14
+14
+48
+
+86
+2
+
+
+
+
+
+add Rivian R1T
+6
+66
+91
+68
+32
+
+
+
+
+
+
+add Jaguar I-Pace
+44
+97
+3
+
+
+2
+
+
+
+
+
+add Mercedes-Benz EQC
+93
+45
+42
+67
+
+
+
+
+
+
+
+add Polestar 2
+70
+84
+62
+
+
+1
+
+
+
+
+
+add Jaguar I-Pace
+31
+5
+94
+
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+37
+79
+75
+75
+46
+
+
+
+
+
+
+add Mercedes-Benz EQS
+59
+86
+23
+
+58
+3
+
+
+
+
+
+add BMW iX
+9
+19
+95
+
+57
+
+
+
+
+
+
+add Porsche Taycan
+4
+7
+46
+
+75
+1
+
+
+
+
+
+add Audi e-tron GT
+10
+45
+68
+85
+79
+
+
+
+
+
+
+add Volvo XC40 Recharge
+81
+39
+67
+
+
+
+
+
+
+
+
+add Tesla Model X
+16
+87
+58
+
+
+3
+
+
+
+
+
+add Jaguar I-Pace
+78
+60
+55
+
+
+
+
+
+
+
+
+add Rivian R1T
+68
+15
+33
+
+53
+3
+
+
+
+
+
+add Rivian R1T
+95
+67
+51
+82
+71
+2
+
+
+
+
+
+add Tesla Model S
+98
+44
+38
+31
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+73
+21
+55
+
+
+
+
+
+
+
+
+add BMW i4
+28
+97
+34
+68
+
+2
+
+
+
+
+
+add Tesla Model X
+96
+29
+88
+
+34
+
+
+
+
+
+
+add Rivian R1S
+79
+20
+29
+90
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+55
+45
+46
+
+2
+
+
+
+
+
+
+add Toyota bZ4X
+42
+90
+76
+
+
+4
+
+
+
+
+
+add Rivian R1S
+58
+77
+85
+55
+5
+
+
+
+
+
+
+add Polestar 2
+92
+22
+40
+
+66
+
+
+
+
+
+
+add Toyota bZ4X
+63
+50
+85
+
+39
+3
+
+
+
+
+
+add Hyundai Kona Electric
+10
+13
+80
+11
+53
+
+
+
+
+
+
+add Nissan Leaf
+95
+14
+20
+
+64
+1
+
+
+
+
+
+add Volvo XC40 Recharge
+84
+9
+25
+10
+
+2
+
+
+
+
+
+add Nissan Leaf
+46
+51
+26
+
+71
+2
+
+
+
+
+
+add Ford Mustang Mach-E
+68
+87
+27
+
+
+1
+
+
+
+
+
+add Nissan Leaf
+77
+71
+99
+
+33
+
+
+
+
+
+
+add Mercedes-Benz EQC
+2
+11
+75
+17
+
+1
+
+
+
+
+
+add Hyundai Kona Electric
+12
+66
+22
+
+
+
+
+
+
+
+
+add Tesla Model 3
+68
+83
+46
+
+31
+1
+
+
+
+
+
+add Kia EV6
+95
+30
+37
+82
+
+
+
+
+
+
+
+add BMW iX
+12
+50
+61
+
+42
+1
+
+
+
+
+
+add Porsche Taycan
+33
+91
+74
+
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+27
+43
+67
+
+
+3
+
+
+
+
+
+add Tesla Model X
+96
+14
+3
+
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+3
+43
+54
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+22
+8
+64
+36
+10
+
+
+
+
+
+
+add Kia Niro EV
+91
+3
+49
+51
+
+2
+
+
+
+
+
+add Audi e-tron GT
+95
+37
+80
+34
+11
+
+
+
+
+
+
+add Nissan Leaf
+48
+14
+89
+96
+43
+
+
+
+
+
+
+add Rivian R1S
+56
+6
+64
+
+41
+
+
+
+
+
+
+add Rivian R1S
+6
+79
+45
+
+15
+
+
+
+
+
+
+add Chevrolet Bolt EV
+1
+69
+44
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+34
+32
+88
+12
+
+
+
+
+
+
+
+add Nissan Leaf
+14
+4
+93
+72
+84
+4
+
+
+
+
+
+add Ford F-150 Lightning
+60
+56
+81
+
+
+1
+
+
+
+
+
+add Kia Niro EV
+96
+43
+82
+
+22
+4
+
+
+
+
+
+add Subaru Solterra
+2
+73
+37
+
+37
+
+
+
+
+
+
+add Subaru Solterra
+57
+17
+53
+
+55
+
+
+
+
+
+
+add Rivian R1S
+34
+52
+56
+
+41
+2
+
+
+
+
+
+add Audi e-tron GT
+21
+43
+28
+53
+72
+2
+
+
+
+
+
+add Subaru Solterra
+32
+70
+17
+
+67
+
+
+
+
+
+
+add Volvo XC40 Recharge
+25
+57
+68
+
+63
+4
+
+
+
+
+
+add Chevrolet Bolt EV
+91
+88
+72
+
+91
+2
+
+
+
+
+
+add Hyundai Kona Electric
+84
+73
+37
+88
+4
+3
+
+
+
+
+
+add Subaru Solterra
+33
+65
+23
+13
+94
+
+
+
+
+
+
+add Toyota bZ4X
+12
+96
+31
+68
+39
+3
+
+
+
+
+
+add Rivian R1T
+62
+79
+71
+61
+43
+3
+
+
+
+
+
+add Kia EV6
+27
+17
+83
+
+89
+2
+
+
+
+
+
+add Kia EV6
+88
+53
+2
+77
+20
+
+
+
+
+
+
+add Rivian R1T
+29
+70
+34
+
+74
+
+
+
+
+
+
+add Ford F-150 Lightning
+86
+5
+56
+
+16
+
+
+
+
+
+
+add Audi e-tron GT
+79
+11
+75
+
+79
+1
+
+
+
+
+
+add Chevrolet Corvette
+25
+47
+44
+62
+15
+1
+
+
+
+
+
+add Ford Mustang Mach-E
+81
+85
+5
+
+
+1
+
+
+
+
+
+add Jaguar I-Pace
+45
+4
+85
+68
+
+2
+
+
+
+
+
+add Mazda MX-30
+42
+24
+42
+
+
+1
+
+
+
+
+
+add Lucid Air
+21
+42
+26
+4
+
+
+
+
+
+
+
+add Toyota bZ4X
+54
+87
+90
+29
+2
+
+
+
+
+
+
+add Rivian R1T
+81
+65
+65
+72
+50
+1
+
+
+
+
+
+add Chevrolet Corvette
+21
+95
+37
+80
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+75
+12
+86
+
+28
+3
+
+
+
+
+
+add Volvo XC40 Recharge
+84
+27
+76
+
+
+
+
+
+
+
+
+add Tesla Model Y
+60
+54
+17
+84
+
+3
+
+
+
+
+
+add Jaguar I-Pace
+51
+82
+52
+79
+
+
+
+
+
+
+
+add Tesla Model X
+34
+27
+89
+
+
+1
+
+
+
+
+
+add Ford Mustang Mach-E
+82
+66
+76
+
+
+
+
+
+
+
+
+add Kia Niro EV
+93
+14
+66
+34
+
+
+
+
+
+
+
+add Tesla Model X
+3
+15
+50
+
+56
+1
+
+
+
+
+
+add Jaguar I-Pace
+63
+24
+49
+
+73
+
+
+
+
+
+
+add Hyundai Ioniq 5
+78
+89
+1
+
+
+3
+
+
+
+
+
+add Hyundai Ioniq 5
+13
+2
+20
+
+
+3
+
+
+
+
+
+add Nissan Leaf
+33
+56
+9
+
+
+
+
+
+
+
+
+add Ford F-150 Lightning
+66
+14
+94
+13
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+14
+6
+75
+16
+
+
+
+
+
+
+
+add Lucid Air
+62
+69
+68
+3
+59
+
+
+
+
+
+
+add Hyundai Kona Electric
+68
+46
+32
+
+
+
+
+
+
+
+
+add Jaguar I-Pace
+38
+58
+70
+
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+17
+30
+89
+83
+
+
+
+
+
+
+
+add BMW iX
+16
+28
+16
+
+5
+
+
+
+
+
+
+add Chevrolet Bolt EV
+59
+5
+62
+
+43
+3
+
+
+
+
+
+add Tesla Model Y
+36
+72
+85
+47
+29
+
+
+
+
+
+
+add Ford F-150 Lightning
+32
+45
+59
+
+63
+
+
+
+
+
+
+add Volvo XC40 Recharge
+37
+16
+85
+
+
+
+
+
+
+
+
+add Tesla Model Y
+67
+51
+91
+71
+37
+
+
+
+
+
+
+add Hyundai Ioniq 5
+9
+40
+68
+75
+
+2
+
+
+
+
+
+add Mercedes-Benz EQS
+50
+39
+13
+48
+3
+
+
+
+
+
+
+add Audi Q4 e-tron
+77
+20
+71
+89
+
+3
+
+
+
+
+
+add Nissan Leaf
+34
+37
+34
+78
+
+4
+
+
+
+
+
+add Kia Niro EV
+83
+21
+80
+4
+71
+
+
+
+
+
+
+add Nissan Leaf
+97
+56
+54
+
+7
+3
+
+
+
+
+
+add Tesla Model X
+20
+14
+54
+
+48
+1
+
+
+
+
+
+add Mazda MX-30
+56
+36
+4
+3
+3
+
+
+
+
+
+
+add Ford Mustang Mach-E
+27
+10
+20
+
+48
+3
+
+
+
+
+
+add Volkswagen ID.4
+77
+25
+39
+59
+
+
+
+
+
+
+
+add Polestar 2
+97
+36
+75
+
+57
+4
+
+
+
+
+
+add Polestar 2
+50
+86
+29
+34
+51
+
+
+
+
+
+
+add Chevrolet Corvette
+95
+69
+14
+
+
+
+
+
+
+
+
+add Toyota bZ4X
+3
+39
+19
+40
+
+1
+
+
+
+
+
+add Ford F-150 Lightning
+73
+65
+78
+
+54
+
+
+
+
+
+
+add Kia Niro EV
+55
+50
+41
+16
+
+
+
+
+
+
+
+add Polestar 2
+2
+58
+51
+75
+7
+
+
+
+
+
+
+add Volkswagen ID.4
+87
+26
+83
+40
+
+
+
+
+
+
+
+add Tesla Model Y
+32
+37
+71
+75
+
+2
+
+
+
+
+
+add Volvo XC40 Recharge
+5
+50
+94
+30
+
+
+
+
+
+
+
+add Chevrolet Corvette
+44
+22
+90
+
+46
+1
+
+
+
+
+
+add Chevrolet Bolt EV
+22
+65
+15
+
+
+4
+
+
+
+
+
+add Rivian R1T
+88
+34
+90
+
+
+
+
+
+
+
+
+add Porsche Taycan
+99
+49
+80
+55
+13
+1
+
+
+
+
+
+add Polestar 2
+1
+7
+32
+69
+
+1
+
+
+
+
+
+add Porsche Taycan
+29
+10
+83
+
+
+1
+
+
+
+
+
+add Volkswagen ID.4
+14
+86
+7
+
+88
+2
+
+
+
+
+
+add Tesla Model Y
+77
+72
+46
+
+68
+
+
+
+
+
+
+add Mercedes-Benz EQC
+22
+76
+32
+77
+77
+
+
+
+
+
+
+add Kia Niro EV
+57
+98
+67
+
+
+
+
+
+
+
+
+add Toyota bZ4X
+18
+59
+43
+
+79
+4
+
+
+
+
+
+add Ford F-150 Lightning
+42
+54
+96
+
+93
+3
+
+
+
+
+
+add BMW iX
+21
+52
+22
+
+
+1
+
+
+
+
+
+add Kia Niro EV
+10
+44
+10
+
+
+
+
+
+
+
+
+add Tesla Model Y
+19
+71
+71
+16
+98
+
+
+
+
+
+
+add Volkswagen ID.4
+68
+81
+52
+21
+1
+
+
+
+
+
+
+add BMW iX
+21
+39
+95
+
+85
+2
+
+
+
+
+
+add Ford F-150 Lightning
+37
+90
+1
+
+
+
+
+
+
+
+
+add Rivian R1T
+47
+54
+56
+
+
+
+
+
+
+
+
+add Tesla Model X
+92
+3
+37
+
+71
+4
+
+
+
+
+
+add Porsche Taycan
+15
+34
+89
+
+34
+
+
+
+
+
+
+add Rivian R1T
+12
+23
+20
+96
+
+1
+
+
+
+
+
+add Audi e-tron GT
+69
+46
+94
+
+72
+
+
+
+
+
+
+add BMW iX
+50
+73
+82
+15
+
+
+
+
+
+
+
+add Mazda MX-30
+41
+39
+14
+
+
+1
+
+
+
+
+
+add Toyota bZ4X
+89
+74
+56
+65
+90
+2
+
+
+
+
+
+add Mercedes-Benz EQC
+13
+94
+81
+46
+
+4
+
+
+
+
+
+add BMW iX
+93
+33
+73
+
+
+
+
+
+
+
+
+add Jaguar I-Pace
+3
+98
+20
+60
+98
+3
+
+
+
+
+
+add Jaguar I-Pace
+84
+58
+2
+
+
+2
+
+
+
+
+
+add Tesla Model 3
+68
+22
+80
+
+14
+
+
+
+
+
+
+add BMW iX
+59
+91
+28
+
+55
+2
+
+
+
+
+
+add Rivian R1T
+73
+26
+64
+52
+
+2
+
+
+
+
+
+add Polestar 2
+10
+28
+67
+79
+
+
+
+
+
+
+
+add Tesla Model X
+70
+94
+16
+83
+3
+4
+
+
+
+
+
+add Tesla Model Y
+38
+82
+48
+54
+
+
+
+
+
+
+
+add Kia Niro EV
+19
+21
+34
+39
+22
+3
+
+
+
+
+
+add Rivian R1T
+27
+83
+95
+8
+
+3
+
+
+
+
+
+add Rivian R1S
+99
+71
+8
+
+41
+4
+
+
+
+
+
+add Toyota bZ4X
+67
+4
+21
+62
+
+2
+
+
+
+
+
+add Nissan Leaf
+99
+27
+97
+51
+15
+1
+
+
+
+
+
+add Tesla Model X
+22
+8
+18
+37
+
+
+
+
+
+
+
+add Jaguar I-Pace
+62
+60
+46
+
+77
+
+
+
+
+
+
+add Nissan Leaf
+64
+87
+37
+
+
+3
+
+
+
+
+
+add BMW iX
+77
+35
+36
+
+64
+1
+
+
+
+
+
+add Chevrolet Corvette
+48
+92
+30
+
+
+3
+
+
+
+
+
+add Tesla Model 3
+83
+35
+23
+
+48
+
+
+
+
+
+
+add Rivian R1T
+65
+82
+62
+34
+
+2
+
+
+
+
+
+add Rivian R1S
+69
+43
+27
+
+
+1
+
+
+
+
+
+add Jaguar I-Pace
+98
+12
+47
+
+
+
+
+
+
+
+
+add Porsche Taycan
+70
+56
+31
+66
+
+4
+
+
+
+
+
+add Hyundai Ioniq 5
+34
+43
+58
+84
+66
+1
+
+
+
+
+
+add Mazda MX-30
+80
+31
+51
+34
+
+1
+
+
+
+
+
+add Rivian R1T
+93
+22
+65
+
+
+3
+
+
+
+
+
+add Jaguar I-Pace
+13
+40
+64
+
+
+3
+
+
+
+
+
+add Lucid Air
+76
+3
+92
+
+28
+
+
+
+
+
+
+add Hyundai Ioniq 5
+19
+71
+76
+85
+
+
+
+
+
+
+
+add Ford F-150 Lightning
+26
+93
+11
+
+
+4
+
+
+
+
+
+add Volvo XC40 Recharge
+13
+17
+91
+8
+12
+
+
+
+
+
+
+add Polestar 2
+24
+82
+43
+86
+
+3
+
+
+
+
+
+add Nissan Leaf
+75
+90
+22
+82
+
+2
+
+
+
+
+
+add Audi e-tron GT
+42
+74
+22
+
+43
+
+
+
+
+
+
+add Mercedes-Benz EQC
+2
+58
+87
+86
+88
+2
+
+
+
+
+
+add Tesla Model S
+11
+27
+1
+60
+
+3
+
+
+
+
+
+add Audi Q4 e-tron
+27
+68
+54
+
+65
+1
+
+
+
+
+
+add Chevrolet Corvette
+52
+41
+8
+89
+
+
+
+
+
+
+
+add Lucid Air
+66
+36
+43
+26
+
+4
+
+
+
+
+
+add Volkswagen ID.4
+2
+71
+39
+
+63
+
+
+
+
+
+
+add Rivian R1T
+52
+68
+1
+20
+
+1
+
+
+
+
+
+add Porsche Taycan
+96
+62
+50
+
+
+
+
+
+
+
+
+add Audi e-tron GT
+14
+26
+7
+92
+98
+1
+
+
+
+
+
+add Hyundai Kona Electric
+67
+95
+67
+
+
+
+
+
+
+
+
+add Subaru Solterra
+36
+36
+58
+86
+87
+
+
+
+
+
+
+add Porsche Taycan
+66
+71
+78
+36
+
+2
+
+
+
+
+
+add Lucid Air
+88
+71
+12
+85
+36
+4
+
+
+
+
+
+add Subaru Solterra
+46
+52
+34
+
+
+3
+
+
+
+
+
+add Tesla Model Y
+96
+74
+67
+67
+52
+4
+
+
+
+
+
+add Tesla Model Y
+88
+75
+47
+7
+62
+1
+
+
+
+
+
+add Kia EV6
+15
+11
+32
+
+1
+3
+
+
+
+
+
+add Mazda MX-30
+52
+24
+19
+74
+
+
+
+
+
+
+
+add BMW iX
+15
+7
+56
+
+57
+
+
+
+
+
+
+add Audi e-tron GT
+48
+83
+2
+92
+
+4
+
+
+
+
+
+add Tesla Model Y
+63
+95
+79
+53
+59
+3
+
+
+
+
+
+add Kia EV6
+66
+44
+71
+
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+49
+40
+16
+
+
+
+
+
+
+
+
+add BMW i4
+14
+75
+18
+
+
+1
+
+
+
+
+
+add Porsche Taycan
+47
+98
+40
+
+61
+
+
+
+
+
+
+add Subaru Solterra
+64
+59
+87
+68
+
+
+
+
+
+
+
+add Kia EV6
+27
+74
+7
+
+16
+
+
+
+
+
+
+add Chevrolet Bolt EV
+12
+34
+12
+21
+59
+2
+
+
+
+
+
+add Audi Q4 e-tron
+93
+96
+6
+
+37
+
+
+
+
+
+
+add Kia Niro EV
+86
+21
+13
+
+
+2
+
+
+
+
+
+add Audi e-tron GT
+29
+43
+90
+10
+86
+4
+
+
+
+
+
+add Mercedes-Benz EQC
+25
+94
+22
+
+49
+1
+
+
+
+
+
+add Nissan Leaf
+44
+11
+77
+
+
+
+
+
+
+
+
+add Kia Niro EV
+54
+14
+59
+1
+
+
+
+
+
+
+
+add Polestar 2
+62
+87
+1
+91
+
+
+
+
+
+
+
+add Tesla Model S
+46
+8
+24
+69
+88
+1
+
+
+
+
+
+add Tesla Model S
+89
+21
+82
+
+93
+2
+
+
+
+
+
+add Mercedes-Benz EQS
+66
+34
+14
+
+
+
+
+
+
+
+
+add Tesla Model Y
+82
+97
+50
+
+
+4
+
+
+
+
+
+add Porsche Taycan
+54
+2
+72
+
+96
+
+
+
+
+
+
+add Toyota bZ4X
+10
+54
+51
+81
+
+
+
+
+
+
+
+add Subaru Solterra
+44
+24
+22
+
+
+1
+
+
+
+
+
+add Hyundai Kona Electric
+56
+56
+74
+
+68
+
+
+
+
+
+
+add Hyundai Kona Electric
+34
+57
+98
+87
+57
+
+
+
+
+
+
+add Lucid Air
+44
+79
+94
+94
+95
+
+
+
+
+
+
+add Volvo XC40 Recharge
+5
+20
+80
+
+83
+
+
+
+
+
+
+add Volvo XC40 Recharge
+2
+42
+68
+39
+41
+4
+
+
+
+
+
+add Mazda MX-30
+85
+93
+69
+
+
+1
+
+
+
+
+
+add Chevrolet Corvette
+70
+96
+70
+
+
+1
+
+
+
+
+
+add Rivian R1S
+21
+76
+25
+
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+63
+76
+1
+
+73
+
+
+
+
+
+
+add BMW iX
+90
+1
+23
+48
+26
+
+
+
+
+
+
+add Rivian R1S
+84
+22
+21
+32
+16
+2
+
+
+
+
+
+add Audi Q4 e-tron
+78
+82
+53
+40
+
+
+
+
+
+
+
+add Porsche Taycan
+6
+94
+60
+
+95
+2
+
+
+
+
+
+add Lucid Air
+15
+64
+80
+
+96
+
+
+
+
+
+
+add Audi Q4 e-tron
+99
+17
+29
+91
+
+2
+
+
+
+
+
+add Kia Niro EV
+66
+86
+87
+83
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+55
+89
+52
+
+
+
+
+
+
+
+
+add Nissan Leaf
+94
+88
+66
+
+
+4
+
+
+
+
+
+add Tesla Model Y
+87
+8
+82
+
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+50
+74
+8
+59
+
+4
+
+
+
+
+
+add Volkswagen ID.4
+91
+84
+89
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+54
+92
+52
+28
+9
+2
+
+
+
+
+
+add Ford Mustang Mach-E
+5
+40
+67
+
+14
+
+
+
+
+
+
+add BMW iX
+74
+27
+57
+26
+97
+
+
+
+
+
+
+add Volvo XC40 Recharge
+22
+76
+46
+91
+
+4
+
+
+
+
+
+add Rivian R1S
+40
+73
+66
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+30
+90
+90
+
+14
+
+
+
+
+
+
+add Kia Niro EV
+83
+92
+82
+
+52
+
+
+
+
+
+
+add Ford F-150 Lightning
+63
+14
+36
+
+81
+3
+
+
+
+
+
+add Chevrolet Corvette
+44
+73
+57
+55
+
+3
+
+
+
+
+
+add Lucid Air
+80
+31
+68
+
+27
+
+
+
+
+
+
+add Ford Mustang Mach-E
+53
+90
+98
+34
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+41
+10
+60
+
+
+
+
+
+
+
+
+add Polestar 2
+86
+20
+54
+
+76
+
+
+
+
+
+
+add Volkswagen ID.4
+85
+14
+87
+
+
+
+
+
+
+
+
+add Kia EV6
+91
+27
+93
+20
+96
+
+
+
+
+
+
+add Porsche Taycan
+21
+91
+66
+45
+95
+2
+
+
+
+
+
+add Toyota bZ4X
+86
+5
+63
+
+
+
+
+
+
+
+
+add Tesla Model S
+19
+47
+95
+34
+96
+4
+
+
+
+
+
+add Toyota bZ4X
+18
+72
+67
+
+21
+
+
+
+
+
+
+add Kia EV6
+53
+21
+89
+
+77
+
+
+
+
+
+
+add Audi e-tron GT
+13
+20
+79
+24
+51
+4
+
+
+
+
+
+add BMW i4
+80
+82
+67
+
+21
+
+
+
+
+
+
+add Kia EV6
+99
+42
+11
+1
+
+1
+
+
+
+
+
+add Volkswagen ID.4
+11
+70
+31
+
+56
+4
+
+
+
+
+
+add Volvo XC40 Recharge
+27
+32
+1
+37
+33
+
+
+
+
+
+
+add Audi Q4 e-tron
+74
+1
+29
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+3
+46
+87
+
+
+2
+
+
+
+
+
+add Hyundai Ioniq 5
+94
+71
+26
+23
+
+1
+
+
+
+
+
+add BMW i4
+7
+75
+46
+19
+
+4
+
+
+
+
+
+add Tesla Model Y
+47
+76
+33
+
+19
+
+
+
+
+
+
+add Polestar 2
+49
+50
+45
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+33
+18
+58
+
+
+
+
+
+
+
+
+add Tesla Model X
+96
+49
+25
+
+
+4
+
+
+
+
+
+add Mercedes-Benz EQS
+80
+71
+47
+
+30
+2
+
+
+
+
+
+add Subaru Solterra
+38
+80
+3
+
+62
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+63
+53
+57
+
+1
+
+
+
+
+
+
+add Tesla Model S
+93
+61
+95
+
+35
+1
+
+
+
+
+
+add Tesla Model 3
+79
+84
+86
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+82
+96
+42
+
+20
+
+
+
+
+
+
+add Lucid Air
+58
+1
+75
+73
+28
+
+
+
+
+
+
+add Kia EV6
+14
+24
+20
+
+
+
+
+
+
+
+
+add BMW i4
+37
+79
+92
+
+28
+
+
+
+
+
+
+add Chevrolet Corvette
+24
+61
+20
+72
+
+3
+
+
+
+
+
+add Rivian R1T
+50
+83
+44
+
+7
+
+
+
+
+
+
+add Mercedes-Benz EQC
+95
+73
+78
+34
+88
+
+
+
+
+
+
+add Chevrolet Corvette
+64
+79
+49
+
+65
+
+
+
+
+
+
+add Lucid Air
+7
+83
+62
+
+18
+
+
+
+
+
+
+add Hyundai Kona Electric
+45
+34
+89
+27
+88
+2
+
+
+
+
+
+add Lucid Air
+75
+15
+79
+
+
+
+
+
+
+
+
+add Toyota bZ4X
+96
+85
+86
+
+
+
+
+
+
+
+
+add Rivian R1S
+74
+39
+99
+77
+86
+2
+
+
+
+
+
+add Volkswagen ID.4
+78
+19
+94
+
+35
+
+
+
+
+
+
+add Rivian R1T
+69
+95
+27
+45
+
+3
+
+
+
+
+
+add BMW iX
+48
+16
+62
+75
+
+4
+
+
+
+
+
+add Ford Mustang Mach-E
+16
+96
+76
+
+65
+4
+
+
+
+
+
+add Tesla Model S
+83
+66
+55
+43
+9
+
+
+
+
+
+
+add Kia EV6
+81
+97
+44
+11
+58
+
+
+
+
+
+
+add Ford Mustang Mach-E
+1
+15
+21
+26
+52
+4
+
+
+
+
+
+add Hyundai Ioniq 5
+44
+1
+83
+74
+17
+2
+
+
+
+
+
+add Lucid Air
+92
+19
+65
+
+9
+2
+
+
+
+
+
+add Mazda MX-30
+75
+82
+56
+71
+
+4
+
+
+
+
+
+add Hyundai Ioniq 5
+75
+9
+27
+
+
+
+
+
+
+
+
+add BMW i4
+92
+21
+68
+
+
+2
+
+
+
+
+
+add Kia Niro EV
+43
+2
+19
+27
+66
+
+
+
+
+
+
+add Kia EV6
+20
+51
+69
+
+70
+2
+
+
+
+
+
+add BMW i4
+62
+60
+42
+
+
+
+
+
+
+
+
+add Tesla Model S
+72
+4
+5
+16
+
+
+
+
+
+
+
+add Toyota bZ4X
+64
+68
+7
+60
+
+1
+
+
+
+
+
+add Toyota bZ4X
+42
+21
+4
+
+44
+
+
+
+
+
+
+add Chevrolet Corvette
+24
+39
+10
+75
+
+1
+
+
+
+
+
+add Audi Q4 e-tron
+63
+38
+49
+
+90
+
+
+
+
+
+
+add BMW iX
+44
+88
+94
+
+30
+
+
+
+
+
+
+add Ford F-150 Lightning
+76
+79
+24
+4
+
+
+
+
+
+
+
+add Nissan Leaf
+88
+42
+91
+57
+
+
+
+
+
+
+
+add Lucid Air
+74
+67
+79
+
+71
+3
+
+
+
+
+
+add BMW i4
+51
+3
+50
+
+
+
+
+
+
+
+
+add Lucid Air
+57
+63
+73
+48
+88
+
+
+
+
+
+
+add Chevrolet Corvette
+67
+85
+78
+
+84
+1
+
+
+
+
+
+add Audi Q4 e-tron
+96
+25
+43
+91
+91
+4
+
+
+
+
+
+add Lucid Air
+5
+31
+44
+
+25
+1
+
+
+
+
+
+add Audi Q4 e-tron
+94
+52
+67
+95
+
+
+
+
+
+
+
+add BMW i4
+58
+27
+51
+85
+23
+
+
+
+
+
+
+add Hyundai Kona Electric
+70
+29
+19
+8
+
+
+
+
+
+
+
+add Tesla Model Y
+81
+71
+58
+
+
+2
+
+
+
+
+
+add Rivian R1T
+92
+8
+90
+
+
+
+
+
+
+
+
+add Jaguar I-Pace
+81
+57
+63
+59
+
+
+
+
+
+
+
+add BMW iX
+52
+76
+14
+45
+54
+3
+
+
+
+
+
+add Volvo XC40 Recharge
+25
+65
+74
+
+79
+4
+
+
+
+
+
+add Kia Niro EV
+64
+89
+34
+
+
+
+
+
+
+
+
+add Tesla Model Y
+36
+82
+75
+27
+
+1
+
+
+
+
+
+add Nissan Leaf
+22
+96
+38
+57
+64
+
+
+
+
+
+
+add Polestar 2
+59
+4
+5
+
+75
+3
+
+
+
+
+
+add Tesla Model 3
+12
+39
+23
+36
+3
+
+
+
+
+
+
+add Kia Niro EV
+35
+37
+97
+
+
+
+
+
+
+
+
+add Nissan Leaf
+97
+67
+11
+57
+
+
+
+
+
+
+
+add Mazda MX-30
+83
+61
+11
+
+43
+
+
+
+
+
+
+add Chevrolet Bolt EV
+47
+27
+66
+46
+
+3
+
+
+
+
+
+add Mazda MX-30
+35
+4
+93
+
+9
+3
+
+
+
+
+
+add Hyundai Ioniq 5
+77
+50
+98
+
+
+
+
+
+
+
+
+add Rivian R1S
+89
+98
+9
+
+
+2
+
+
+
+
+
+add Jaguar I-Pace
+37
+53
+65
+46
+
+3
+
+
+
+
+
+add Mercedes-Benz EQS
+93
+13
+38
+79
+25
+
+
+
+
+
+
+add Kia Niro EV
+87
+57
+23
+33
+49
+
+
+
+
+
+
+add Rivian R1T
+50
+51
+81
+
+
+4
+
+
+
+
+
+add Tesla Model Y
+46
+76
+61
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+25
+80
+61
+
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+7
+38
+54
+68
+
+
+
+
+
+
+
+add Polestar 2
+11
+30
+22
+
+5
+
+
+
+
+
+
+add Nissan Leaf
+12
+52
+81
+
+
+4
+
+
+
+
+
+add BMW i4
+14
+19
+81
+85
+60
+
+
+
+
+
+
+add Mercedes-Benz EQS
+16
+15
+63
+
+18
+1
+
+
+
+
+
+add Nissan Leaf
+50
+54
+43
+69
+53
+4
+
+
+
+
+
+add Kia EV6
+75
+19
+83
+2
+60
+2
+
+
+
+
+
+add Lucid Air
+20
+86
+15
+
+
+3
+
+
+
+
+
+add Chevrolet Corvette
+99
+7
+28
+
+50
+1
+
+
+
+
+
+add Ford Mustang Mach-E
+38
+96
+73
+31
+
+4
+
+
+
+
+
+add BMW i4
+50
+48
+17
+72
+49
+
+
+
+
+
+
+add Kia Niro EV
+49
+74
+81
+
+30
+1
+
+
+
+
+
+add Tesla Model Y
+8
+71
+94
+45
+66
+3
+
+
+
+
+
+add Mercedes-Benz EQC
+89
+78
+87
+
+
+3
+
+
+
+
+
+add Polestar 2
+8
+26
+15
+
+95
+
+
+
+
+
+
+add Hyundai Kona Electric
+1
+39
+44
+31
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+84
+1
+11
+
+
+
+
+
+
+
+
+add BMW i4
+99
+6
+66
+
+
+
+
+
+
+
+
+add Tesla Model X
+86
+55
+90
+78
+47
+1
+
+
+
+
+
+add Nissan Leaf
+2
+51
+73
+
+
+1
+
+
+
+
+
+add Porsche Taycan
+78
+99
+72
+
+
+
+
+
+
+
+
+add Volkswagen ID.4
+97
+73
+62
+
+
+
+
+
+
+
+
+add BMW i4
+52
+99
+92
+79
+
+2
+
+
+
+
+
+add Chevrolet Corvette
+97
+75
+33
+
+
+1
+
+
+
+
+
+add Mercedes-Benz EQC
+86
+62
+12
+13
+80
+
+
+
+
+
+
+add BMW i4
+66
+85
+30
+
+84
+2
+
+
+
+
+
+add Tesla Model 3
+60
+2
+99
+
+69
+
+
+
+
+
+
+add Nissan Leaf
+5
+27
+69
+35
+48
+
+
+
+
+
+
+add Porsche Taycan
+19
+48
+20
+
+
+
+
+
+
+
+
+add Mercedes-Benz EQS
+26
+88
+56
+12
+
+3
+
+
+
+
+
+add Audi Q4 e-tron
+70
+19
+84
+25
+
+
+
+
+
+
+
+add Volkswagen ID.4
+99
+66
+81
+94
+46
+1
+
+
+
+
+
+add Volkswagen ID.4
+77
+5
+10
+83
+60
+2
+
+
+
+
+
+add Ford Mustang Mach-E
+80
+68
+61
+
+55
+4
+
+
+
+
+
+add Tesla Model 3
+95
+29
+50
+
+
+2
+
+
+
+
+
+add BMW i4
+96
+47
+29
+
+
+1
+
+
+
+
+
+add Hyundai Ioniq 5
+27
+71
+63
+
+
+4
+
+
+
+
+
+add Subaru Solterra
+33
+93
+60
+13
+8
+
+
+
+
+
+
+add Audi Q4 e-tron
+39
+80
+28
+
+
+
+
+
+
+
+
+add Volvo XC40 Recharge
+69
+43
+54
+7
+
+1
+
+
+
+
+
+add Volvo XC40 Recharge
+53
+2
+79
+
+18
+2
+
+
+
+
+
+add Hyundai Kona Electric
+8
+10
+17
+
+
+
+
+
+
+
+
+add Nissan Leaf
+92
+86
+73
+38
+
+
+
+
+
+
+
+add Lucid Air
+39
+95
+74
+16
+43
+
+
+
+
+
+
+add Tesla Model Y
+24
+41
+18
+21
+81
+
+
+
+
+
+
+add Chevrolet Corvette
+44
+84
+47
+
+
+
+
+
+
+
+
+add Rivian R1S
+34
+73
+43
+
+9
+2
+
+
+
+
+
+add Tesla Model 3
+17
+50
+75
+88
+47
+2
+
+
+
+
+
+add Rivian R1T
+65
+3
+40
+
+
+3
+
+
+
+
+
+add Mercedes-Benz EQS
+47
+88
+58
+67
+
+1
+
+
+
+
+
+add Rivian R1T
+99
+59
+10
+
+27
+
+
+
+
+
+
+add Volkswagen ID.4
+30
+79
+45
+40
+
+
+
+
+
+
+
+add Tesla Model Y
+35
+93
+51
+64
+91
+2
+
+
+
+
+
+add Tesla Model Y
+14
+43
+56
+29
+
+
+
+
+
+
+
+add Kia Niro EV
+12
+48
+64
+
+12
+
+
+
+
+
+
+add Rivian R1T
+35
+33
+89
+54
+
+
+
+
+
+
+
+add Mazda MX-30
+32
+73
+61
+
+
+2
+
+
+
+
+
+add Porsche Taycan
+37
+59
+33
+61
+16
+2
+
+
+
+
+
+add Hyundai Kona Electric
+76
+25
+34
+
+91
+
+
+
+
+
+
+add Volkswagen ID.4
+64
+28
+52
+71
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+48
+9
+98
+51
+
+2
+
+
+
+
+
+add Polestar 2
+82
+27
+22
+85
+98
+
+
+
+
+
+
+add BMW iX
+60
+52
+33
+
+
+4
+
+
+
+
+
+add Volvo XC40 Recharge
+73
+15
+16
+
+88
+4
+
+
+
+
+
+add Kia EV6
+39
+51
+67
+
+
+2
+
+
+
+
+
+add Tesla Model X
+7
+97
+72
+
+
+2
+
+
+
+
+
+add Toyota bZ4X
+33
+66
+62
+96
+50
+
+
+
+
+
+
+add Jaguar I-Pace
+92
+22
+82
+
+82
+3
+
+
+
+
+
+add Rivian R1T
+22
+57
+97
+72
+
+
+
+
+
+
+
+add Mazda MX-30
+20
+95
+84
+
+23
+4
+
+
+
+
+
+add Polestar 2
+34
+35
+69
+5
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+76
+71
+40
+
+
+
+
+
+
+
+
+add Ford F-150 Lightning
+71
+13
+85
+
+27
+4
+
+
+
+
+
+add BMW iX
+14
+68
+8
+89
+68
+
+
+
+
+
+
+add Volvo XC40 Recharge
+53
+29
+7
+88
+92
+1
+
+
+
+
+
+add Mercedes-Benz EQC
+12
+69
+81
+
+
+3
+
+
+
+
+
+add Kia Niro EV
+13
+70
+10
+85
+
+4
+
+
+
+
+
+add Polestar 2
+37
+17
+86
+
+2
+
+
+
+
+
+
+add Nissan Leaf
+63
+88
+45
+26
+35
+
+
+
+
+
+
+add Audi Q4 e-tron
+92
+18
+93
+
+
+1
+
+
+
+
+
+add Porsche Taycan
+37
+74
+57
+70
+
+1
+
+
+
+
+
+add Lucid Air
+93
+97
+80
+
+55
+
+
+
+
+
+
+add Porsche Taycan
+70
+87
+38
+54
+18
+
+
+
+
+
+
+add Tesla Model 3
+54
+22
+36
+45
+21
+
+
+
+
+
+
+add Tesla Model 3
+84
+97
+55
+
+31
+1
+
+
+
+
+
+add Ford F-150 Lightning
+83
+42
+4
+
+52
+
+
+
+
+
+
+add Ford F-150 Lightning
+56
+12
+80
+
+
+
+
+
+
+
+
+add Mazda MX-30
+58
+84
+59
+
+44
+4
+
+
+
+
+
+add Hyundai Kona Electric
+33
+28
+85
+
+92
+
+
+
+
+
+
+add Tesla Model X
+46
+50
+90
+
+
+
+
+
+
+
+
+add Lucid Air
+1
+93
+47
+30
+94
+1
+
+
+
+
+
+add Tesla Model S
+54
+30
+50
+34
+
+3
+
+
+
+
+
+add Hyundai Ioniq 5
+43
+43
+39
+
+
+1
+
+
+
+
+
+add Tesla Model S
+6
+35
+88
+
+77
+
+
+
+
+
+
+add Tesla Model S
+60
+16
+58
+
+86
+
+
+
+
+
+
+add Audi Q4 e-tron
+22
+81
+61
+86
+58
+3
+
+
+
+
+
+add Audi e-tron GT
+50
+43
+60
+83
+99
+
+
+
+
+
+
+add Volkswagen ID.4
+67
+18
+89
+
+
+
+
+
+
+
+
+add Tesla Model X
+43
+94
+50
+25
+76
+3
+
+
+
+
+
+add Lucid Air
+16
+92
+87
+
+
+2
+
+
+
+
+
+add Hyundai Ioniq 5
+32
+25
+40
+
+
+
+
+
+
+
+
+add Hyundai Ioniq 5
+58
+64
+41
+
+
+
+
+
+
+
+
+add Mazda MX-30
+39
+43
+15
+
+24
+1
+
+
+
+
+
+add Rivian R1T
+92
+47
+52
+
+28
+1
+
+
+
+
+
+add Tesla Model X
+76
+8
+56
+
+48
+
+
+
+
+
+
+add Mercedes-Benz EQC
+34
+82
+2
+56
+24
+1
+
+
+
+
+
+add Lucid Air
+13
+80
+60
+
+
+4
+
+
+
+
+
+add Tesla Model Y
+15
+94
+60
+
+78
+
+
+
+
+
+
+add Mazda MX-30
+25
+22
+60
+73
+
+2
+
+
+
+
+
+add Tesla Model Y
+68
+98
+20
+25
+
+
+
+
+
+
+
+add Audi Q4 e-tron
+77
+19
+80
+
+26
+
+
+
+
+
+
+add Mercedes-Benz EQC
+41
+94
+85
+
+27
+1
+
+
+
+
+
+add Porsche Taycan
+67
+46
+24
+
+
+
+
+
+
+
+
+add Mazda MX-30
+51
+13
+88
+
+
+4
+
+
+
+
+
+add Nissan Leaf
+10
+99
+20
+94
+67
+4
+
+
+
+
+
+add BMW i4
+77
+10
+3
+
+
+1
+
+
+
+
+
+add Chevrolet Corvette
+82
+41
+20
+
+31
+
+
+
+
+
+
+add Ford Mustang Mach-E
+98
+52
+55
+47
+
+
+
+
+
+
+
+add Kia EV6
+81
+88
+42
+58
+
+4
+
+
+
+
+
+add Audi e-tron GT
+58
+41
+15
+
+
+1
+
+
+
+
+
+add Porsche Taycan
+31
+4
+20
+
+
+2
+
+
+
+
+
+add Hyundai Ioniq 5
+93
+32
+14
+
+
+3
+
+
+
+
+
+add Polestar 2
+37
+67
+99
+77
+23
+3
+
+
+
+
+
+add Tesla Model X
+82
+91
+59
+
+
+1
+
+
+
+
+
+add Chevrolet Corvette
+83
+95
+53
+
+
+1
+
+
+
+
+
+add Ford F-150 Lightning
+35
+4
+64
+
+38
+
+
+
+
+
+
+add Kia EV6
+49
+49
+6
+53
+
+3
+
+
+
+
+
+add Lucid Air
+16
+77
+79
+
+
+
+
+
+
+
+
+add Polestar 2
+31
+83
+72
+43
+41
+
+
+
+
+
+
+add Subaru Solterra
+58
+6
+93
+66
+
+
+
+
+
+
+
+add Mazda MX-30
+52
+26
+18
+45
+65
+3
+
+
+
+
+
+add Audi e-tron GT
+46
+42
+25
+
+82
+1
+
+
+
+
+
+add Rivian R1T
+74
+17
+58
+16
+
+4
+
+
+
+
+
+add Audi Q4 e-tron
+7
+62
+92
+
+
+
+
+
+
+
+
+add Lucid Air
+23
+18
+33
+
+69
+
+
+
+
+
+
+add Polestar 2
+7
+72
+94
+28
+
+1
+
+
+
+
+
+add Ford F-150 Lightning
+39
+13
+61
+
+15
+1
+
+
+
+
+
+add Mercedes-Benz EQS
+34
+8
+31
+84
+31
+2
+
+
+
+
+
+add Lucid Air
+27
+9
+61
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+96
+44
+72
+
+
+1
+
+
+
+
+
+add Mercedes-Benz EQC
+81
+71
+42
+
+16
+
+
+
+
+
+
+add Jaguar I-Pace
+64
+92
+63
+41
+
+
+
+
+
+
+
+add Tesla Model 3
+50
+81
+41
+
+36
+
+
+
+
+
+
+add Tesla Model Y
+69
+32
+55
+71
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+81
+44
+50
+
+79
+
+
+
+
+
+
+add Ford F-150 Lightning
+87
+43
+97
+36
+16
+
+
+
+
+
+
+add Polestar 2
+93
+35
+6
+
+
+3
+
+
+
+
+
+add Jaguar I-Pace
+55
+54
+8
+68
+32
+
+
+
+
+
+
+add Polestar 2
+76
+35
+63
+20
+
+
+
+
+
+
+
+add Tesla Model 3
+56
+92
+94
+
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+43
+33
+58
+75
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+84
+63
+73
+
+
+
+
+
+
+
+
+add Kia EV6
+16
+38
+44
+2
+57
+
+
+
+
+
+
+add Porsche Taycan
+97
+2
+16
+46
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+14
+26
+74
+
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+92
+37
+8
+87
+
+
+
+
+
+
+
+add Subaru Solterra
+52
+11
+28
+
+8
+2
+
+
+
+
+
+add Tesla Model 3
+74
+33
+36
+74
+1
+
+
+
+
+
+
+add Nissan Leaf
+3
+57
+54
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+56
+55
+33
+19
+
+
+
+
+
+
+
+add Tesla Model S
+38
+56
+28
+49
+
+
+
+
+
+
+
+add Tesla Model X
+95
+44
+25
+37
+84
+2
+
+
+
+
+
+add Lucid Air
+79
+33
+55
+53
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+62
+88
+93
+
+
+1
+
+
+
+
+
+add Audi e-tron GT
+39
+66
+51
+
+46
+
+
+
+
+
+
+add Rivian R1S
+8
+95
+12
+70
+91
+
+
+
+
+
+
+add Ford F-150 Lightning
+46
+85
+67
+
+63
+
+
+
+
+
+
+add Mercedes-Benz EQS
+26
+56
+30
+86
+
+4
+
+
+
+
+
+add Subaru Solterra
+12
+28
+22
+80
+
+3
+
+
+
+
+
+add Kia Niro EV
+63
+93
+97
+77
+
+1
+
+
+
+
+
+add BMW i4
+16
+78
+80
+12
+94
+2
+
+
+
+
+
+add Lucid Air
+78
+78
+54
+98
+51
+
+
+
+
+
+
+add Tesla Model Y
+30
+52
+25
+81
+26
+4
+
+
+
+
+
+add Tesla Model 3
+72
+26
+69
+89
+
+3
+
+
+
+
+
+add BMW i4
+26
+31
+41
+
+
+4
+
+
+
+
+
+add Chevrolet Corvette
+43
+65
+3
+
+
+1
+
+
+
+
+
+add Hyundai Ioniq 5
+98
+53
+70
+
+
+
+
+
+
+
+
+add Chevrolet Corvette
+91
+38
+66
+
+79
+
+
+
+
+
+
+add Mercedes-Benz EQS
+83
+36
+91
+97
+55
+3
+
+
+
+
+
+add Chevrolet Corvette
+40
+70
+21
+54
+
+
+
+
+
+
+
+add Hyundai Kona Electric
+61
+87
+66
+
+18
+1
+
+
+
+
+
+add Volkswagen ID.4
+78
+89
+78
+17
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+67
+27
+35
+4
+67
+2
+
+
+
+
+
+add Toyota bZ4X
+71
+90
+2
+
+
+3
+
+
+
+
+
+add Kia Niro EV
+51
+15
+39
+
+
+4
+
+
+
+
+
+add BMW i4
+46
+32
+45
+21
+68
+
+
+
+
+
+
+add Nissan Leaf
+85
+76
+65
+
+95
+3
+
+
+
+
+
+add Tesla Model Y
+92
+95
+63
+
+74
+
+
+
+
+
+
+add Subaru Solterra
+17
+78
+9
+96
+17
+
+
+
+
+
+
+add Polestar 2
+91
+83
+17
+42
+
+
+
+
+
+
+
+add Ford Mustang Mach-E
+16
+43
+23
+
+
+2
+
+
+
+
+
+add Lucid Air
+63
+5
+9
+28
+90
+
+
+
+
+
+
+add Rivian R1T
+53
+62
+81
+
+7
+1
+
+
+
+
+
+add Lucid Air
+71
+56
+16
+35
+
+
+
+
+
+
+
+add Lucid Air
+88
+26
+86
+25
+36
+
+
+
+
+
+
+add Kia EV6
+74
+49
+53
+10
+39
+4
+
+
+
+
+
+add Rivian R1T
+29
+76
+88
+47
+27
+1
+
+
+
+
+
+add Mazda MX-30
+4
+60
+8
+26
+59
+
+
+
+
+
+
+add Kia Niro EV
+64
+71
+66
+61
+
+
+
+
+
+
+
+add Rivian R1S
+40
+17
+91
+34
+25
+
+
+
+
+
+
+add Nissan Leaf
+70
+24
+35
+77
+16
+2
+
+
+
+
+
+add Mazda MX-30
+30
+78
+44
+5
+80
+3
+
+
+
+
+
+add Ford F-150 Lightning
+41
+67
+25
+
+
+4
+
+
+
+
+
+add Volkswagen ID.4
+98
+47
+12
+78
+16
+1
+
+
+
+
+
+add Kia Niro EV
+53
+71
+8
+73
+66
+2
+
+
+
+
+
+add Mercedes-Benz EQC
+73
+52
+55
+95
+
+
+
+
+
+
+
+add Mercedes-Benz EQC
+60
+9
+9
+76
+
+
+
+
+
+
+
+add Chevrolet Bolt EV
+72
+38
+73
+
+
+2
+
+
+
+
+
+add Ford Mustang Mach-E
+11
+51
+71
+23
+
+
+
+
+
+
+
+add Rivian R1S
+55
+58
+54
+
+12
+
+
+
+
+
+
+add Volvo XC40 Recharge
+99
+84
+80
+71
+38
+
+
+
+
+
+
+add Mercedes-Benz EQS
+55
+94
+5
+
+
+1
+
+
+
+
+
+add Audi e-tron GT
+95
+58
+98
+
+3
+2
+
+
+
+
+
+add Volvo XC40 Recharge
+69
+54
+5
+
+
+2
+
+
+
+
+
+add BMW i4
+6
+39
+39
+35
+
+
+
+
+
+
+
+add Subaru Solterra
+15
+7
+90
+25
+
+4
+
+
+
+
+
+add Rivian R1T
+26
+89
+24
+
+
+1
+
+
+
+
+
+add Nissan Leaf
+30
+15
+50
+
+14
+
+
+
+
+
+
+add Audi e-tron GT
+28
+48
+50
+
+97
+
+
+
+
+
+
+add Tesla Model S
+67
+69
+73
+
+30
+3
+
+
+
+
+
+add Ford Mustang Mach-E
+72
+78
+79
+22
+97
+1
+
+
+
+
+
+add Subaru Solterra
+33
+51
+52
+
+38
+3
+
+
+
+
+
+add Nissan Leaf
+12
+24
+91
+53
+3
+
+
+
+
+
+
+add Audi e-tron GT
+2
+35
+54
+
+
+4
+
+
+
+
+
+add Mercedes-Benz EQC
+80
+58
+75
+1
+
+
+
+
+
+
+
+add Porsche Taycan
+50
+22
+91
+
+
+3
+
+
+
+
+
+add Kia EV6
+19
+89
+84
+87
+40
+
+
+
+
+
+
+add Volkswagen ID.4
+83
+18
+41
+38
+48
+2
+
+
+
+
+
+add Toyota bZ4X
+16
+9
+4
+
+54
+2
+
+
+
+
+
+add Tesla Model X
+30
+77
+74
+
+55
+4
+
+
+
+
+
+add Kia Niro EV
+9
+11
+88
+
+
+
+
+
+
+
+
+add Subaru Solterra
+66
+94
+38
+
+
+
+
+
+
+
+
+add Tesla Model 3
+21
+44
+67
+
+20
+
+
+
+
+
+
+add Volkswagen ID.4
+65
+79
+92
+
+
+
+
+
+
+
+
+add Tesla Model Y
+28
+64
+52
+
+
+2
+
+
+
+
+
+add Nissan Leaf
+17
+24
+70
+19
+62
+2
+
+
+
+
+
+add Kia Niro EV
+34
+37
+15
+
+
+
+
+
+
+
+
+update_id 80
+Porsche Taycan
+2
+85
+10
+
+
+3
+
+
+
+
+
+update_id 760
+Hyundai Kona Electric
+12
+35
+12
+
+
+
+
+
+
+
+
+update_id 212
+Tesla Model X
+65
+24
+52
+
+85
+4
+
+
+
+
+
+update_id 280
+Volvo XC40 Recharge
+3
+32
+90
+
+
+1
+
+
+
+
+
+update_id 52
+Tesla Model X
+20
+98
+30
+
+
+4
+
+
+
+
+
+update_id 814
+Kia Niro EV
+91
+7
+60
+
+83
+
+
+
+
+
+
+update_id 353
+Lucid Air
+98
+57
+78
+
+87
+
+
+
+
+
+
+update_id 226
+Ford F-150 Lightning
+74
+76
+48
+60
+98
+
+
+
+
+
+
+update_id 981
+Mercedes-Benz EQC
+67
+25
+58
+44
+
+
+
+
+
+
+
+update_id 705
+Kia EV6
+56
+97
+52
+
+50
+
+
+
+
+
+
+update_id 710
+Tesla Model X
+17
+51
+34
+33
+92
+4
+
+
+
+
+
+update_id 431
+BMW iX
+20
+20
+89
+71
+
+
+
+
+
+
+
+update_id 865
+Mazda MX-30
+79
+2
+91
+84
+
+
+
+
+
+
+
+update_id 196
+Chevrolet Bolt EV
+36
+1
+7
+
+
+
+
+
+
+
+
+update_id 507
+Rivian R1T
+55
+43
+31
+
+18
+
+
+
+
+
+
+update_id 722
+Hyundai Ioniq 5
+24
+24
+8
+
+56
+
+
+
+
+
+
+update_id 209
+Kia Niro EV
+88
+53
+96
+69
+
+3
+
+
+
+
+
+update_id 339
+BMW iX
+3
+93
+34
+
+
+
+
+
+
+
+
+update_id 954
+Mercedes-Benz EQC
+95
+68
+64
+71
+61
+
+
+
+
+
+
+update_id 210
+Tesla Model X
+93
+20
+68
+
+66
+
+
+
+
+
+
+update_id 469
+Hyundai Kona Electric
+50
+83
+62
+77
+
+
+
+
+
+
+
+update_id 523
+Subaru Solterra
+82
+10
+19
+
+
+2
+
+
+
+
+
+update_id 510
+Polestar 2
+64
+50
+59
+
+40
+
+
+
+
+
+
+update_id 618
+Volvo XC40 Recharge
+49
+84
+63
+35
+53
+
+
+
+
+
+
+update_id 231
+Mazda MX-30
+59
+6
+26
+
+
+
+
+
+
+
+
+update_id 449
+Toyota bZ4X
+13
+11
+63
+30
+18
+
+
+
+
+
+
+update_id 39
+Lucid Air
+98
+36
+53
+48
+5
+3
+
+
+
+
+
+update_id 160
+Kia Niro EV
+18
+27
+40
+
+30
+1
+
+
+
+
+
+update_id 179
+Nissan Leaf
+34
+96
+1
+
+56
+1
+
+
+
+
+
+update_id 279
+Subaru Solterra
+10
+38
+2
+7
+
+
+
+
+
+
+
+update_id 658
+Rivian R1S
+68
+61
+47
+45
+
+
+
+
+
+
+
+update_id 443
+Mercedes-Benz EQC
+46
+71
+42
+
+10
+
+
+
+
+
+
+update_id 116
+Chevrolet Bolt EV
+87
+64
+91
+68
+
+
+
+
+
+
+
+update_id 287
+Polestar 2
+55
+35
+31
+93
+
+1
+
+
+
+
+
+update_id 104
+Subaru Solterra
+80
+56
+1
+
+
+4
+
+
+
+
+
+update_id 452
+Mercedes-Benz EQS
+89
+53
+38
+8
+
+3
+
+
+
+
+
+update_id 559
+Lucid Air
+29
+22
+72
+
+
+
+
+
+
+
+
+update_id 461
+Tesla Model 3
+8
+79
+25
+
+
+
+
+
+
+
+
+update_id 867
+Hyundai Kona Electric
+14
+52
+94
+
+56
+3
+
+
+
+
+
+update_id 269
+Mercedes-Benz EQS
+86
+65
+81
+7
+12
+3
+
+
+
+
+
+update_id 958
+Mazda MX-30
+65
+91
+73
+
+
+2
+
+
+
+
+
+update_id 183
+BMW iX
+76
+80
+74
+92
+78
+4
+
+
+
+
+
+update_id 369
+Mercedes-Benz EQS
+12
+16
+5
+
+
+
+
+
+
+
+
+update_id 163
+Jaguar I-Pace
+57
+90
+37
+
+59
+4
+
+
+
+
+
+update_id 629
+Mercedes-Benz EQC
+68
+99
+37
+
+
+3
+
+
+
+
+
+update_id 750
+Ford F-150 Lightning
+55
+29
+23
+
+54
+1
+
+
+
+
+
+update_id 742
+Volvo XC40 Recharge
+88
+99
+36
+
+
+
+
+
+
+
+
+update_id 662
+Subaru Solterra
+64
+27
+92
+
+92
+
+
+
+
+
+
+update_id 318
+Jaguar I-Pace
+88
+53
+99
+79
+3
+1
+
+
+
+
+
+update_id 420
+Subaru Solterra
+89
+24
+48
+68
+
+
+
+
+
+
+
+update_id 928
+Mercedes-Benz EQC
+31
+54
+35
+
+72
+
+
+
+
+
+
+update_id 973
+Nissan Leaf
+25
+60
+56
+
+
+
+
+
+
+
+
+update_id 965
+Volvo XC40 Recharge
+7
+31
+59
+
+70
+3
+
+
+
+
+
+update_id 107
+Audi Q4 e-tron
+48
+4
+96
+
+
+3
+
+
+
+
+
+update_id 283
+Tesla Model S
+23
+77
+18
+
+1
+3
+
+
+
+
+
+update_id 871
+Mazda MX-30
+59
+89
+23
+
+
+2
+
+
+
+
+
+update_id 85
+BMW i4
+25
+36
+13
+34
+
+1
+
+
+
+
+
+update_id 344
+Toyota bZ4X
+26
+51
+47
+
+
+4
+
+
+
+
+
+update_id 588
+Mercedes-Benz EQS
+37
+51
+46
+
+
+
+
+
+
+
+
+update_id 452
+Mazda MX-30
+13
+53
+89
+
+
+2
+
+
+
+
+
+update_id 473
+Toyota bZ4X
+74
+60
+52
+43
+
+4
+
+
+
+
+
+update_id 343
+Rivian R1T
+91
+57
+26
+
+3
+1
+
+
+
+
+
+update_id 700
+Chevrolet Bolt EV
+16
+81
+14
+3
+
+
+
+
+
+
+
+update_id 89
+Polestar 2
+79
+51
+21
+8
+
+
+
+
+
+
+
+update_id 874
+Tesla Model X
+72
+51
+47
+6
+66
+
+
+
+
+
+
+update_id 689
+Kia EV6
+97
+95
+22
+
+31
+
+
+
+
+
+
+update_id 910
+Chevrolet Corvette
+87
+13
+40
+36
+43
+
+
+
+
+
+
+update_id 66
+Polestar 2
+12
+98
+90
+
+16
+4
+
+
+
+
+
+update_id 41
+Polestar 2
+85
+37
+83
+83
+
+4
+
+
+
+
+
+update_id 28
+BMW iX
+80
+43
+40
+71
+86
+
+
+
+
+
+
+update_id 344
+Ford Mustang Mach-E
+99
+84
+14
+
+
+1
+
+
+
+
+
+update_id 696
+Chevrolet Corvette
+81
+45
+23
+
+
+4
+
+
+
+
+
+update_id 45
+BMW iX
+48
+99
+71
+34
+46
+
+
+
+
+
+
+update_id 173
+Volvo XC40 Recharge
+3
+58
+70
+
+
+3
+
+
+
+
+
+update_id 782
+Audi e-tron GT
+44
+48
+56
+75
+
+1
+
+
+
+
+
+update_id 414
+Tesla Model S
+3
+83
+19
+
+
+
+
+
+
+
+
+update_id 182
+Porsche Taycan
+42
+7
+11
+
+50
+2
+
+
+
+
+
+update_id 350
+Lucid Air
+26
+10
+87
+
+55
+3
+
+
+
+
+
+update_id 434
+Lucid Air
+53
+66
+50
+
+8
+2
+
+
+
+
+
+update_id 574
+BMW iX
+37
+85
+14
+
+
+
+
+
+
+
+
+update_id 834
+Tesla Model 3
+14
+61
+65
+
+58
+
+
+
+
+
+
+update_id 982
+Subaru Solterra
+1
+35
+69
+
+
+1
+
+
+
+
+
+update_id 49
+Audi Q4 e-tron
+51
+14
+24
+
+
+3
+
+
+
+
+
+update_id 100
+Porsche Taycan
+59
+66
+88
+
+
+3
+
+
+
+
+
+update_id 978
+Chevrolet Bolt EV
+18
+70
+35
+
+
+3
+
+
+
+
+
+update_id 90
+BMW i4
+96
+54
+5
+
+62
+
+
+
+
+
+
+update_id 826
+Hyundai Ioniq 5
+79
+68
+76
+78
+
+
+
+
+
+
+
+update_id 53
+Tesla Model Y
+96
+99
+67
+35
+
+
+
+
+
+
+
+update_id 126
+Mazda MX-30
+64
+97
+93
+
+
+
+
+
+
+
+
+update_id 628
+Mercedes-Benz EQC
+67
+77
+99
+69
+43
+
+
+
+
+
+
+update_id 330
+Audi Q4 e-tron
+26
+13
+35
+
+
+
+
+
+
+
+
+update_id 286
+Chevrolet Bolt EV
+49
+33
+3
+
+
+1
+
+
+
+
+
+update_id 501
+Jaguar I-Pace
+36
+55
+15
+9
+
+
+
+
+
+
+
+update_id 252
+Tesla Model Y
+85
+37
+60
+31
+
+4
+
+
+
+
+
+update_id 987
+Audi Q4 e-tron
+32
+39
+54
+
+
+
+
+
+
+
+
+update_id 301
+Volvo XC40 Recharge
+14
+98
+98
+78
+40
+
+
+
+
+
+
+update_id 978
+BMW iX
+7
+34
+19
+64
+
+
+
+
+
+
+
+update_id 514
+Volvo XC40 Recharge
+87
+15
+37
+
+50
+4
+
+
+
+
+
+update_id 465
+Kia EV6
+46
+60
+82
+20
+81
+3
+
+
+
+
+
+update_id 306
+Tesla Model S
+95
+39
+48
+16
+32
+
+
+
+
+
+
+update_id 334
+Chevrolet Corvette
+69
+46
+82
+
+
+
+
+
+
+
+
+update_id 418
+Chevrolet Corvette
+10
+78
+33
+
+8
+
+
+
+
+
+
+update_id 205
+Tesla Model 3
+53
+70
+95
+
+95
+1
+
+
+
+
+
+update_id 72
+Audi e-tron GT
+69
+21
+4
+
+61
+
+
+
+
+
+
+update_id 318
+Mercedes-Benz EQC
+1
+34
+86
+
+8
+
+
+
+
+
+
+update_id 873
+Hyundai Ioniq 5
+52
+7
+16
+
+48
+4
+
+
+
+
+
+update_id 313
+Chevrolet Corvette
+4
+30
+41
+14
+
+4
+
+
+
+
+
+update_id 1000
+Hyundai Kona Electric
+60
+88
+76
+
+
+
+
+
+
+
+
+update_id 950
+Rivian R1S
+9
+67
+77
+29
+
+
+
+
+
+
+
+update_id 444
+Volkswagen ID.4
+92
+34
+38
+
+
+
+
+
+
+
+
+update_id 482
+Lucid Air
+42
+22
+65
+17
+27
+
+
+
+
+
+
+update_id 756
+Volvo XC40 Recharge
+60
+82
+62
+25
+95
+
+
+
+
+
+
+update_id 151
+Rivian R1T
+7
+39
+29
+48
+
+
+
+
+
+
+
+update_id 691
+Nissan Leaf
+10
+48
+59
+
+
+
+
+
+
+
+
+update_id 623
+Ford Mustang Mach-E
+70
+18
+88
+
+49
+3
+
+
+
+
+
+update_id 872
+Rivian R1T
+66
+4
+70
+
+34
+2
+
+
+
+
+
+update_id 5
+Tesla Model S
+56
+10
+17
+82
+
+3
+
+
+
+
+
+update_id 558
+Chevrolet Bolt EV
+15
+28
+1
+
+
+
+
+
+
+
+
+update_id 998
+Toyota bZ4X
+8
+39
+24
+29
+
+
+
+
+
+
+
+update_id 396
+Hyundai Ioniq 5
+70
+91
+53
+
+7
+1
+
+
+
+
+
+update_id 923
+Polestar 2
+5
+19
+21
+58
+86
+
+
+
+
+
+
+update_id 57
+Tesla Model Y
+34
+72
+77
+
+
+3
+
+
+
+
+
+update_id 901
+Volvo XC40 Recharge
+31
+84
+85
+71
+30
+4
+
+
+
+
+
+update_id 642
+Rivian R1T
+68
+99
+73
+57
+79
+3
+
+
+
+
+
+update_id 57
+Volvo XC40 Recharge
+99
+76
+24
+
+
+
+
+
+
+
+
+update_id 831
+Subaru Solterra
+81
+44
+11
+
+
+1
+
+
+
+
+
+update_id 558
+Nissan Leaf
+4
+5
+85
+
+
+
+
+
+
+
+
+update_id 943
+BMW i4
+53
+3
+11
+7
+
+4
+
+
+
+
+
+update_id 340
+Polestar 2
+23
+67
+71
+31
+
+3
+
+
+
+
+
+update_id 728
+Jaguar I-Pace
+98
+85
+5
+
+86
+2
+
+
+
+
+
+update_id 33
+Kia Niro EV
+12
+76
+97
+76
+
+
+
+
+
+
+
+update_id 34
+Tesla Model Y
+70
+4
+64
+24
+77
+
+
+
+
+
+
+update_id 363
+Jaguar I-Pace
+15
+71
+17
+
+
+3
+
+
+
+
+
+update_id 165
+Audi e-tron GT
+54
+95
+16
+76
+41
+1
+
+
+
+
+
+update_id 479
+Volkswagen ID.4
+31
+66
+41
+40
+60
+
+
+
+
+
+
+update_id 709
+Rivian R1S
+38
+93
+39
+11
+
+
+
+
+
+
+
+update_id 56
+Tesla Model S
+46
+88
+87
+28
+
+
+
+
+
+
+
+update_id 1
+Subaru Solterra
+63
+6
+79
+33
+67
+
+
+
+
+
+
+update_id 401
+Rivian R1T
+44
+51
+27
+61
+71
+2
+
+
+
+
+
+update_id 308
+BMW iX
+94
+26
+62
+
+
+3
+
+
+
+
+
+update_id 526
+Hyundai Ioniq 5
+37
+96
+33
+
+
+1
+
+
+
+
+
+update_id 435
+Polestar 2
+57
+45
+97
+
+
+
+
+
+
+
+
+update_id 725
+BMW iX
+87
+6
+24
+68
+
+2
+
+
+
+
+
+update_id 396
+Volvo XC40 Recharge
+61
+8
+40
+
+
+
+
+
+
+
+
+update_id 642
+Mercedes-Benz EQC
+38
+50
+37
+
+23
+
+
+
+
+
+
+update_id 899
+Ford Mustang Mach-E
+96
+59
+79
+
+
+2
+
+
+
+
+
+update_id 631
+Jaguar I-Pace
+41
+31
+94
+63
+72
+4
+
+
+
+
+
+update_id 838
+Ford F-150 Lightning
+36
+42
+68
+
+91
+
+
+
+
+
+
+update_id 972
+BMW iX
+19
+21
+40
+
+47
+3
+
+
+
+
+
+update_id 629
+Lucid Air
+97
+86
+15
+64
+18
+
+
+
+
+
+
+update_id 575
+Ford F-150 Lightning
+43
+64
+40
+
+
+
+
+
+
+
+
+update_id 612
+Ford Mustang Mach-E
+77
+41
+69
+
+
+2
+
+
+
+
+
+update_id 934
+Mercedes-Benz EQS
+87
+62
+14
+
+4
+3
+
+
+
+
+
+update_id 285
+Polestar 2
+45
+9
+18
+81
+37
+
+
+
+
+
+
+update_id 832
+Polestar 2
+77
+87
+6
+88
+
+
+
+
+
+
+
+update_id 836
+Porsche Taycan
+80
+64
+27
+
+
+4
+
+
+
+
+
+update_id 60
+Kia EV6
+32
+93
+2
+14
+29
+2
+
+
+
+
+
+update_id 205
+Volkswagen ID.4
+47
+83
+42
+
+
+2
+
+
+
+
+
+update_id 633
+Polestar 2
+62
+74
+48
+68
+61
+
+
+
+
+
+
+update_id 314
+Mercedes-Benz EQS
+17
+64
+28
+
+79
+2
+
+
+
+
+
+update_id 933
+Polestar 2
+43
+47
+66
+
+70
+
+
+
+
+
+
+update_id 206
+Polestar 2
+78
+50
+53
+70
+
+4
+
+
+
+
+
+update_id 81
+Chevrolet Bolt EV
+26
+11
+71
+20
+
+2
+
+
+
+
+
+update_id 122
+Tesla Model Y
+10
+7
+78
+90
+97
+2
+
+
+
+
+
+update_id 884
+Rivian R1S
+21
+70
+70
+35
+
+
+
+
+
+
+
+update_id 897
+Chevrolet Corvette
+4
+61
+41
+
+
+
+
+
+
+
+
+update_id 576
+Hyundai Kona Electric
+38
+91
+11
+58
+
+1
+
+
+
+
+
+update_id 901
+Rivian R1T
+32
+62
+25
+73
+60
+2
+
+
+
+
+
+update_id 503
+BMW iX
+34
+79
+83
+
+
+4
+
+
+
+
+
+update_id 586
+Toyota bZ4X
+55
+65
+54
+
+92
+
+
+
+
+
+
+update_id 699
+Tesla Model Y
+7
+38
+28
+
+
+3
+
+
+
+
+
+update_id 979
+Chevrolet Corvette
+50
+33
+5
+17
+
+3
+
+
+
+
+
+update_id 719
+Tesla Model X
+47
+36
+41
+84
+
+1
+
+
+
+
+
+update_id 909
+Hyundai Kona Electric
+60
+47
+2
+2
+
+2
+
+
+
+
+
+update_id 704
+Mazda MX-30
+20
+33
+88
+82
+86
+
+
+
+
+
+
+update_id 622
+Mercedes-Benz EQC
+62
+49
+92
+
+44
+
+
+
+
+
+
+update_id 598
+Tesla Model X
+82
+56
+47
+
+
+3
+
+
+
+
+
+update_id 15
+Jaguar I-Pace
+58
+72
+91
+
+
+
+
+
+
+
+
+update_id 535
+Porsche Taycan
+62
+54
+45
+
+1
+1
+
+
+
+
+
+update_id 384
+Hyundai Ioniq 5
+6
+7
+86
+
+
+
+
+
+
+
+
+update_id 834
+Toyota bZ4X
+5
+99
+65
+
+
+
+
+
+
+
+
+update_id 380
+Rivian R1T
+85
+87
+57
+73
+75
+
+
+
+
+
+
+update_id 325
+Mazda MX-30
+66
+81
+3
+
+66
+
+
+
+
+
+
+update_id 862
+Nissan Leaf
+80
+50
+80
+24
+
+4
+
+
+
+
+
+update_id 293
+Kia Niro EV
+84
+68
+40
+
+
+2
+
+
+
+
+
+update_id 333
+Subaru Solterra
+55
+66
+62
+
+
+3
+
+
+
+
+
+update_id 732
+Audi e-tron GT
+20
+14
+7
+
+51
+
+
+
+
+
+
+update_id 536
+BMW iX
+36
+13
+73
+83
+7
+
+
+
+
+
+
+update_id 350
+Rivian R1T
+51
+89
+2
+30
+30
+3
+
+
+
+
+
+update_id 674
+Mazda MX-30
+59
+79
+56
+
+74
+1
+
+
+
+
+
+update_id 328
+Audi e-tron GT
+86
+11
+42
+64
+
+1
+
+
+
+
+
+update_id 749
+Chevrolet Bolt EV
+36
+82
+94
+33
+66
+4
+
+
+
+
+
+update_id 819
+Audi Q4 e-tron
+59
+90
+57
+84
+12
+1
+
+
+
+
+
+update_id 766
+Ford Mustang Mach-E
+78
+78
+60
+73
+66
+4
+
+
+
+
+
+update_id 834
+Hyundai Ioniq 5
+55
+43
+32
+67
+
+3
+
+
+
+
+
+update_id 702
+Nissan Leaf
+97
+42
+3
+97
+56
+
+
+
+
+
+
+update_id 94
+Chevrolet Corvette
+34
+24
+45
+
+47
+1
+
+
+
+
+
+update_id 97
+BMW iX
+31
+87
+82
+
+30
+4
+
+
+
+
+
+update_id 517
+Tesla Model X
+8
+72
+77
+
+
+1
+
+
+
+
+
+update_id 517
+Tesla Model X
+37
+65
+24
+
+
+
+
+
+
+
+
+update_id 689
+Kia EV6
+51
+71
+27
+90
+
+
+
+
+
+
+
+update_id 72
+Volvo XC40 Recharge
+2
+22
+37
+63
+14
+4
+
+
+
+
+
+update_id 172
+Rivian R1S
+86
+57
+54
+65
+99
+4
+
+
+
+
+
+update_id 560
+Hyundai Ioniq 5
+47
+46
+52
+
+
+4
+
+
+
+
+
+update_id 993
+Rivian R1T
+80
+6
+8
+14
+58
+
+
+
+
+
+
+update_id 975
+Mazda MX-30
+40
+64
+14
+
+45
+4
+
+
+
+
+
+update_id 403
+Audi Q4 e-tron
+68
+36
+70
+
+49
+3
+
+
+
+
+
+update_id 485
+Porsche Taycan
+67
+95
+15
+54
+
+2
+
+
+
+
+
+update_id 312
+Chevrolet Bolt EV
+42
+26
+2
+75
+19
+
+
+
+
+
+
+update_id 323
+Lucid Air
+46
+3
+7
+
+
+2
+
+
+
+
+
+update_id 118
+Mazda MX-30
+42
+88
+3
+42
+84
+
+
+
+
+
+
+update_id 718
+Rivian R1T
+23
+37
+29
+89
+
+
+
+
+
+
+
+update_id 227
+Volkswagen ID.4
+81
+88
+62
+71
+
+1
+
+
+
+
+
+update_id 294
+BMW i4
+2
+23
+69
+
+67
+2
+
+
+
+
+
+update_id 716
+Chevrolet Corvette
+20
+61
+74
+
+46
+3
+
+
+
+
+
+update_id 862
+Mazda MX-30
+3
+62
+53
+78
+90
+2
+
+
+
+
+
+update_id 65
+Kia Niro EV
+88
+66
+77
+43
+1
+
+
+
+
+
+
+update_id 7
+Mercedes-Benz EQS
+4
+81
+3
+30
+98
+2
+
+
+
+
+
+update_id 44
+Mazda MX-30
+85
+57
+86
+58
+14
+1
+
+
+
+
+
+update_id 658
+Hyundai Kona Electric
+34
+91
+19
+45
+10
+
+
+
+
+
+
+update_id 237
+Audi e-tron GT
+6
+81
+71
+16
+
+
+
+
+
+
+
+update_id 954
+Tesla Model 3
+88
+65
+15
+
+
+2
+
+
+
+
+
+update_id 238
+Tesla Model S
+84
+37
+4
+
+33
+1
+
+
+
+
+
+update_id 318
+Tesla Model 3
+59
+28
+51
+
+56
+1
+
+
+
+
+
+update_id 235
+Volkswagen ID.4
+14
+71
+54
+
+
+
+
+
+
+
+
+update_id 993
+Ford Mustang Mach-E
+44
+78
+18
+
+52
+3
+
+
+
+
+
+update_id 424
+Tesla Model X
+54
+93
+25
+
+
+4
+
+
+
+
+
+update_id 106
+Kia EV6
+28
+17
+92
+97
+
+3
+
+
+
+
+
+update_id 679
+Toyota bZ4X
+35
+35
+14
+
+
+1
+
+
+
+
+
+update_id 922
+Nissan Leaf
+39
+4
+96
+
+
+1
+
+
+
+
+
+update_id 917
+Toyota bZ4X
+62
+91
+22
+
+61
+
+
+
+
+
+
+update_id 210
+Rivian R1S
+92
+33
+65
+31
+30
+
+
+
+
+
+
+update_id 218
+Tesla Model Y
+3
+40
+54
+57
+
+
+
+
+
+
+
+update_id 768
+Lucid Air
+98
+11
+17
+
+68
+
+
+
+
+
+
+update_id 988
+Mazda MX-30
+35
+92
+27
+
+
+2
+
+
+
+
+
+update_id 667
+Mazda MX-30
+46
+66
+75
+42
+
+
+
+
+
+
+
+update_id 792
+BMW i4
+65
+90
+21
+56
+
+4
+
+
+
+
+
+update_id 521
+Nissan Leaf
+16
+12
+88
+
+46
+4
+
+
+
+
+
+update_id 571
+Rivian R1T
+99
+85
+37
+72
+75
+2
+
+
+
+
+
+update_id 202
+Volvo XC40 Recharge
+51
+99
+35
+
+14
+1
+
+
+
+
+
+update_id 273
+Nissan Leaf
+93
+64
+53
+95
+91
+2
+
+
+
+
+
+update_id 212
+Chevrolet Corvette
+5
+40
+70
+82
+
+4
+
+
+
+
+
+update_id 728
+Polestar 2
+36
+50
+33
+
+93
+4
+
+
+
+
+
+update_id 765
+Volvo XC40 Recharge
+4
+4
+89
+
+57
+
+
+
+
+
+
+update_id 362
+Mazda MX-30
+34
+82
+96
+
+
+
+
+
+
+
+
+update_id 390
+Tesla Model 3
+34
+65
+98
+
+
+3
+
+
+
+
+
+update_id 846
+Rivian R1S
+64
+67
+73
+
+62
+3
+
+
+
+
+
+update_id 566
+Ford Mustang Mach-E
+79
+57
+38
+
+93
+
+
+
+
+
+
+update_id 494
+Tesla Model Y
+85
+47
+1
+
+41
+
+
+
+
+
+
+update_id 779
+Hyundai Ioniq 5
+63
+50
+55
+20
+25
+4
+
+
+
+
+
+update_id 618
+Volkswagen ID.4
+50
+65
+30
+
+
+
+
+
+
+
+
+update_id 193
+Chevrolet Bolt EV
+73
+94
+96
+
+
+4
+
+
+
+
+
+update_id 600
+BMW i4
+43
+20
+28
+85
+14
+
+
+
+
+
+
+update_id 422
+Mercedes-Benz EQC
+20
+66
+86
+
+
+3
+
+
+
+
+
+update_id 952
+Mazda MX-30
+11
+57
+47
+87
+38
+1
+
+
+
+
+
+update_id 226
+Tesla Model S
+4
+23
+1
+
+50
+2
+
+
+
+
+
+update_id 188
+Hyundai Kona Electric
+35
+6
+32
+
+67
+4
+
+
+
+
+
+update_id 812
+Rivian R1S
+87
+14
+21
+
+40
+
+
+
+
+
+
+update_id 447
+Lucid Air
+13
+56
+88
+8
+
+3
+
+
+
+
+
+update_id 355
+Tesla Model 3
+49
+48
+49
+26
+87
+4
+
+
+
+
+
+update_id 670
+Kia Niro EV
+41
+52
+98
+32
+
+1
+
+
+
+
+
+update_id 655
+Polestar 2
+5
+86
+64
+
+
+
+
+
+
+
+
+update_id 718
+Rivian R1S
+39
+88
+44
+
+80
+
+
+
+
+
+
+update_id 727
+Audi Q4 e-tron
+44
+27
+71
+61
+
+3
+
+
+
+
+
+update_id 424
+Kia EV6
+3
+33
+71
+
+
+
+
+
+
+
+
+update_id 350
+Lucid Air
+96
+76
+34
+
+
+3
+
+
+
+
+
+update_id 729
+Kia Niro EV
+98
+10
+92
+95
+
+
+
+
+
+
+
+update_id 482
+Chevrolet Bolt EV
+21
+56
+63
+
+
+4
+
+
+
+
+
+update_id 237
+Tesla Model Y
+22
+30
+96
+
+
+
+
+
+
+
+
+update_id 984
+BMW iX
+5
+4
+35
+
+
+
+
+
+
+
+
+update_id 855
+Subaru Solterra
+51
+44
+94
+21
+
+
+
+
+
+
+
+update_id 550
+Toyota bZ4X
+39
+31
+97
+
+
+4
+
+
+
+
+
+update_id 509
+Tesla Model X
+41
+89
+56
+89
+
+2
+
+
+
+
+
+update_id 511
+BMW i4
+21
+93
+41
+19
+70
+
+
+
+
+
+
+update_id 244
+Audi Q4 e-tron
+30
+1
+35
+
+43
+3
+
+
+
+
+
+update_id 507
+Mercedes-Benz EQC
+28
+51
+33
+
+21
+1
+
+
+
+
+
+update_id 279
+Jaguar I-Pace
+61
+27
+29
+
+43
+
+
+
+
+
+
+update_id 770
+Subaru Solterra
+17
+33
+61
+52
+62
+
+
+
+
+
+
+update_id 411
+Polestar 2
+51
+6
+39
+
+
+4
+
+
+
+
+
+update_id 289
+Volkswagen ID.4
+86
+67
+21
+
+17
+
+
+
+
+
+
+update_id 158
+Volkswagen ID.4
+67
+87
+47
+
+
+
+
+
+
+
+
+update_id 650
+Rivian R1S
+42
+78
+97
+60
+81
+2
+
+
+
+
+
+update_id 941
+Hyundai Kona Electric
+38
+9
+94
+82
+22
+
+
+
+
+
+
+update_id 934
+Tesla Model Y
+63
+60
+36
+
+35
+3
+
+
+
+
+
+update_id 387
+Toyota bZ4X
+46
+65
+10
+
+56
+
+
+
+
+
+
+update_id 825
+Mazda MX-30
+22
+35
+84
+
+94
+
+
+
+
+
+
+update_id 113
+Chevrolet Corvette
+31
+42
+2
+87
+
+
+
+
+
+
+
+update_id 426
+Lucid Air
+19
+11
+3
+17
+
+
+
+
+
+
+
+update_id 187
+Ford F-150 Lightning
+32
+7
+19
+
+30
+2
+
+
+
+
+
+update_id 921
+Chevrolet Corvette
+43
+43
+60
+7
+60
+
+
+
+
+
+
+update_id 43
+Ford Mustang Mach-E
+74
+69
+32
+80
+
+
+
+
+
+
+
+update_id 994
+Chevrolet Bolt EV
+18
+6
+47
+
+42
+2
+
+
+
+
+
+update_id 639
+Kia Niro EV
+2
+24
+42
+
+81
+
+
+
+
+
+
+update_id 153
+Tesla Model S
+81
+89
+99
+
+62
+
+
+
+
+
+
+update_id 426
+Mazda MX-30
+67
+38
+72
+43
+
+2
+
+
+
+
+
+update_id 916
+BMW iX
+77
+30
+14
+9
+55
+2
+
+
+
+
+
+update_id 433
+BMW iX
+3
+18
+80
+
+
+
+
+
+
+
+
+update_id 861
+Ford Mustang Mach-E
+76
+22
+55
+45
+
+1
+
+
+
+
+
+update_id 764
+Porsche Taycan
+15
+5
+23
+
+
+
+
+
+
+
+
+update_id 217
+Kia EV6
+41
+96
+97
+46
+62
+
+
+
+
+
+
+update_id 514
+BMW iX
+17
+85
+50
+
+
+
+
+
+
+
+
+update_id 599
+Rivian R1T
+36
+55
+9
+
+
+3
+
+
+
+
+
+update_id 24
+Hyundai Kona Electric
+32
+52
+68
+29
+41
+2
+
+
+
+
+
+update_id 255
+Rivian R1S
+5
+47
+5
+
+
+
+
+
+
+
+
+update_id 741
+Audi e-tron GT
+17
+25
+43
+
+
+2
+
+
+
+
+
+update_id 38
+Jaguar I-Pace
+1
+69
+74
+96
+
+1
+
+
+
+
+
+update_id 224
+Rivian R1S
+10
+83
+69
+
+
+
+
+
+
+
+
+update_id 708
+Chevrolet Corvette
+36
+25
+96
+
+19
+
+
+
+
+
+
+update_id 885
+BMW iX
+10
+50
+60
+78
+55
+1
+
+
+
+
+
+update_id 447
+Porsche Taycan
+46
+17
+68
+49
+
+1
+
+
+
+
+
+update_id 350
+Ford Mustang Mach-E
+17
+74
+80
+16
+
+
+
+
+
+
+
+update_id 281
+Chevrolet Bolt EV
+76
+51
+43
+22
+39
+4
+
+
+
+
+
+update_id 30
+Chevrolet Corvette
+60
+16
+97
+
+43
+
+
+
+
+
+
+update_id 869
+Tesla Model 3
+91
+63
+20
+
+9
+2
+
+
+
+
+
+update_id 951
+Chevrolet Corvette
+69
+73
+67
+
+
+1
+
+
+
+
+
+update_id 574
+Jaguar I-Pace
+95
+7
+73
+26
+51
+
+
+
+
+
+
+update_id 155
+Chevrolet Corvette
+23
+8
+24
+
+
+3
+
+
+
+
+
+update_id 786
+Tesla Model Y
+81
+99
+72
+
+7
+2
+
+
+
+
+
+update_id 779
+Ford Mustang Mach-E
+47
+65
+73
+
+89
+
+
+
+
+
+
+update_id 14
+Audi e-tron GT
+56
+15
+82
+75
+63
+
+
+
+
+
+
+update_id 87
+BMW i4
+68
+73
+26
+
+80
+4
+
+
+
+
+
+update_id 718
+Chevrolet Bolt EV
+29
+60
+73
+89
+11
+3
+
+
+
+
+
+update_id 732
+Subaru Solterra
+41
+30
+7
+
+
+3
+
+
+
+
+
+update_id 799
+Hyundai Kona Electric
+55
+45
+12
+87
+
+4
+
+
+
+
+
+update_id 121
+Toyota bZ4X
+86
+50
+62
+
+
+
+
+
+
+
+
+update_id 697
+Mercedes-Benz EQC
+7
+19
+91
+11
+
+4
+
+
+
+
+
+update_id 537
+Hyundai Kona Electric
+8
+23
+19
+90
+53
+
+
+
+
+
+
+update_id 329
+Porsche Taycan
+77
+76
+99
+
+90
+2
+
+
+
+
+
+update_id 643
+Jaguar I-Pace
+23
+2
+34
+32
+75
+4
+
+
+
+
+
+update_id 218
+Rivian R1S
+11
+97
+79
+75
+
+
+
+
+
+
+
+update_id 47
+Jaguar I-Pace
+32
+74
+71
+
+
+2
+
+
+
+
+
+update_id 607
+Nissan Leaf
+92
+71
+12
+20
+3
+
+
+
+
+
+
+update_id 692
+Jaguar I-Pace
+64
+9
+21
+45
+66
+
+
+
+
+
+
+update_id 505
+Lucid Air
+77
+73
+16
+23
+
+
+
+
+
+
+
+update_id 276
+Mazda MX-30
+50
+4
+18
+33
+
+1
+
+
+
+
+
+update_id 542
+Mazda MX-30
+13
+3
+75
+
+
+1
+
+
+
+
+
+update_id 423
+Chevrolet Bolt EV
+17
+66
+99
+
+
+1
+
+
+
+
+
+update_id 912
+Rivian R1S
+12
+47
+15
+
+3
+
+
+
+
+
+
+update_id 721
+Polestar 2
+54
+71
+9
+
+16
+2
+
+
+
+
+
+update_id 82
+Mercedes-Benz EQC
+9
+40
+41
+
+
+1
+
+
+
+
+
+update_id 197
+Tesla Model S
+6
+66
+56
+69
+58
+
+
+
+
+
+
+update_id 15
+Rivian R1T
+50
+76
+25
+
+
+
+
+
+
+
+
+update_id 277
+Mercedes-Benz EQS
+41
+78
+37
+
+
+
+
+
+
+
+
+update_id 706
+Rivian R1S
+18
+73
+29
+
+
+
+
+
+
+
+
+update_id 979
+Toyota bZ4X
+70
+11
+5
+99
+
+4
+
+
+
+
+
+update_id 417
+Subaru Solterra
+80
+66
+95
+87
+47
+
+
+
+
+
+
+update_id 362
+Rivian R1S
+63
+11
+31
+94
+47
+
+
+
+
+
+
+update_id 571
+Subaru Solterra
+7
+16
+36
+
+67
+
+
+
+
+
+
+update_id 511
+Lucid Air
+49
+36
+65
+
+
+
+
+
+
+
+
+update_id 111
+Volkswagen ID.4
+93
+79
+17
+
+
+
+
+
+
+
+
+update_id 81
+Subaru Solterra
+5
+5
+72
+82
+86
+4
+
+
+
+
+
+update_id 688
+Audi e-tron GT
+90
+48
+31
+
+61
+
+
+
+
+
+
+update_id 792
+Chevrolet Corvette
+44
+26
+10
+
+
+1
+
+
+
+
+
+update_id 182
+BMW iX
+75
+25
+79
+70
+36
+4
+
+
+
+
+
+update_id 412
+Kia Niro EV
+75
+69
+2
+74
+33
+4
+
+
+
+
+
+update_id 271
+Kia Niro EV
+41
+9
+31
+
+
+1
+
+
+
+
+
+update_id 1
+Chevrolet Bolt EV
+26
+71
+83
+
+
+
+
+
+
+
+
+update_id 718
+Audi Q4 e-tron
+37
+18
+11
+
+
+2
+
+
+
+
+
+update_id 21
+Kia EV6
+3
+60
+19
+
+94
+
+
+
+
+
+
+update_id 55
+Mazda MX-30
+43
+76
+8
+
+93
+
+
+
+
+
+
+update_id 789
+Chevrolet Bolt EV
+19
+64
+28
+71
+72
+
+
+
+
+
+
+update_id 779
+Polestar 2
+48
+2
+36
+27
+
+
+
+
+
+
+
+update_id 906
+Porsche Taycan
+98
+35
+29
+
+
+
+
+
+
+
+
+update_id 84
+Ford F-150 Lightning
+91
+55
+76
+
+
+3
+
+
+
+
+
+update_id 145
+Porsche Taycan
+8
+73
+16
+
+
+3
+
+
+
+
+
+update_id 334
+Hyundai Kona Electric
+1
+49
+26
+
+
+2
+
+
+
+
+
+update_id 474
+Hyundai Ioniq 5
+87
+19
+58
+91
+38
+
+
+
+
+
+
+update_id 797
+Toyota bZ4X
+25
+85
+33
+
+
+3
+
+
+
+
+
+update_id 295
+Nissan Leaf
+93
+87
+64
+36
+23
+3
+
+
+
+
+
+update_id 494
+Hyundai Ioniq 5
+8
+95
+92
+
+
+4
+
+
+
+
+
+update_id 413
+Kia EV6
+48
+46
+79
+64
+16
+4
+
+
+
+
+
+update_id 765
+Chevrolet Bolt EV
+72
+20
+18
+51
+79
+3
+
+
+
+
+
+update_id 935
+BMW iX
+30
+17
+32
+
+
+
+
+
+
+
+
+update_id 960
+Volkswagen ID.4
+75
+25
+77
+34
+
+
+
+
+
+
+
+update_id 255
+Ford Mustang Mach-E
+45
+43
+95
+8
+
+4
+
+
+
+
+
+update_id 577
+Hyundai Kona Electric
+92
+61
+9
+
+23
+
+
+
+
+
+
+update_id 470
+Tesla Model Y
+9
+40
+18
+
+80
+1
+
+
+
+
+
+update_id 158
+Toyota bZ4X
+19
+76
+67
+
+
+
+
+
+
+
+
+update_id 878
+Subaru Solterra
+22
+97
+5
+
+
+
+
+
+
+
+
+update_id 423
+Jaguar I-Pace
+37
+45
+5
+
+55
+
+
+
+
+
+
+update_id 669
+Hyundai Ioniq 5
+23
+60
+23
+79
+46
+2
+
+
+
+
+
+update_id 378
+Mercedes-Benz EQC
+71
+70
+97
+76
+
+
+
+
+
+
+
+update_id 814
+Ford F-150 Lightning
+81
+23
+14
+
+
+
+
+
+
+
+
+update_id 796
+Tesla Model Y
+98
+94
+24
+65
+1
+
+
+
+
+
+
+update_id 387
+Tesla Model X
+81
+87
+42
+35
+35
+2
+
+
+
+
+
+update_id 792
+BMW iX
+92
+48
+28
+
+89
+4
+
+
+
+
+
+update_id 739
+Rivian R1T
+20
+94
+53
+53
+
+3
+
+
+
+
+
+update_id 856
+Lucid Air
+96
+30
+56
+53
+12
+3
+
+
+
+
+
+update_id 369
+Hyundai Ioniq 5
+6
+9
+14
+
+60
+4
+
+
+
+
+
+update_id 319
+Jaguar I-Pace
+18
+14
+67
+
+45
+
+
+
+
+
+
+update_id 594
+BMW i4
+8
+43
+39
+
+78
+1
+
+
+
+
+
+update_id 512
+Chevrolet Bolt EV
+82
+55
+5
+
+10
+3
+
+
+
+
+
+update_id 114
+Kia Niro EV
+32
+75
+74
+
+
+1
+
+
+
+
+
+update_id 931
+BMW iX
+4
+98
+62
+61
+
+
+
+
+
+
+
+update_id 587
+Hyundai Ioniq 5
+36
+16
+59
+
+
+
+
+
+
+
+
+update_id 659
+Polestar 2
+79
+3
+23
+
+16
+4
+
+
+
+
+
+update_id 45
+Jaguar I-Pace
+87
+54
+75
+40
+26
+1
+
+
+
+
+
+update_id 267
+Ford Mustang Mach-E
+5
+98
+68
+56
+5
+1
+
+
+
+
+
+update_id 795
+Mercedes-Benz EQS
+18
+67
+37
+
+96
+4
+
+
+
+
+
+update_id 313
+Porsche Taycan
+87
+60
+39
+35
+
+1
+
+
+
+
+
+update_id 19
+Tesla Model X
+32
+28
+78
+33
+80
+2
+
+
+
+
+
+update_id 294
+Tesla Model X
+40
+15
+24
+
+
+2
+
+
+
+
+
+update_id 145
+BMW i4
+37
+40
+6
+23
+15
+
+
+
+
+
+
+update_id 327
+Lucid Air
+3
+4
+91
+
+59
+
+
+
+
+
+
+update_id 965
+Chevrolet Bolt EV
+41
+55
+18
+
+
+1
+
+
+
+
+
+update_id 240
+BMW iX
+5
+56
+53
+52
+84
+
+
+
+
+
+
+update_id 83
+BMW iX
+79
+38
+99
+
+
+2
+
+
+
+
+
+update_id 992
+Tesla Model X
+32
+54
+40
+
+
+
+
+
+
+
+
+update_id 935
+Chevrolet Corvette
+22
+58
+37
+54
+47
+4
+
+
+
+
+
+update_id 333
+Chevrolet Bolt EV
+6
+60
+80
+
+35
+1
+
+
+
+
+
+update_id 743
+BMW i4
+32
+19
+84
+
+
+2
+
+
+
+
+
+update_id 376
+BMW iX
+80
+47
+91
+
+86
+
+
+
+
+
+
+update_id 603
+Ford F-150 Lightning
+66
+7
+2
+
+34
+
+
+
+
+
+
+update_id 256
+Chevrolet Corvette
+95
+38
+62
+
+83
+
+
+
+
+
+
+update_id 482
+Jaguar I-Pace
+28
+59
+23
+84
+
+1
+
+
+
+
+
+update_id 967
+BMW iX
+29
+98
+5
+11
+42
+
+
+
+
+
+
+update_id 207
+Volvo XC40 Recharge
+23
+50
+31
+
+
+4
+
+
+
+
+
+update_id 534
+BMW iX
+91
+35
+65
+16
+
+4
+
+
+
+
+
+update_id 841
+Tesla Model S
+34
+40
+22
+
+21
+4
+
+
+
+
+
+update_id 322
+Tesla Model Y
+81
+30
+81
+
+83
+
+
+
+
+
+
+update_id 384
+Tesla Model S
+48
+95
+4
+82
+
+
+
+
+
+
+
+update_id 80
+Ford F-150 Lightning
+45
+6
+97
+82
+
+2
+
+
+
+
+
+update_id 329
+Volkswagen ID.4
+83
+62
+35
+15
+
+2
+
+
+
+
+
+update_id 389
+Subaru Solterra
+35
+35
+80
+9
+53
+
+
+
+
+
+
+update_id 353
+Volvo XC40 Recharge
+46
+82
+23
+
+
+4
+
+
+
+
+
+update_id 633
+Audi e-tron GT
+3
+26
+45
+
+
+
+
+
+
+
+
+update_id 41
+Ford F-150 Lightning
+6
+34
+50
+
+1
+4
+
+
+
+
+
+update_id 42
+Audi e-tron GT
+17
+4
+71
+12
+
+4
+
+
+
+
+
+update_id 810
+Tesla Model X
+6
+83
+99
+1
+
+3
+
+
+
+
+
+update_id 428
+Audi e-tron GT
+14
+51
+86
+32
+
+3
+
+
+
+
+
+update_id 10
+Kia EV6
+26
+7
+90
+
+94
+1
+
+
+
+
+
+update_id 13
+Volvo XC40 Recharge
+19
+64
+90
+
+35
+
+
+
+
+
+
+update_id 314
+Jaguar I-Pace
+13
+1
+92
+39
+51
+
+
+
+
+
+
+update_id 853
+Ford Mustang Mach-E
+97
+63
+93
+27
+41
+
+
+
+
+
+
+update_id 213
+Ford F-150 Lightning
+60
+88
+61
+
+
+
+
+
+
+
+
+update_id 350
+Jaguar I-Pace
+21
+56
+7
+27
+14
+4
+
+
+
+
+
+update_id 100
+Kia Niro EV
+41
+24
+45
+
+
+
+
+
+
+
+
+update_id 546
+Hyundai Ioniq 5
+14
+6
+26
+71
+42
+1
+
+
+
+
+
+update_id 509
+Porsche Taycan
+30
+12
+98
+
+
+2
+
+
+
+
+
+update_id 187
+Audi Q4 e-tron
+88
+4
+37
+
+29
+
+
+
+
+
+
+update_id 330
+Kia Niro EV
+56
+63
+9
+53
+20
+3
+
+
+
+
+
+update_id 111
+Tesla Model X
+56
+46
+83
+
+86
+
+
+
+
+
+
+update_id 421
+BMW i4
+61
+57
+16
+74
+81
+
+
+
+
+
+
+update_id 536
+Chevrolet Corvette
+3
+32
+25
+23
+42
+
+
+
+
+
+
+update_id 384
+Ford F-150 Lightning
+22
+18
+81
+60
+62
+
+
+
+
+
+
+update_id 37
+Polestar 2
+94
+58
+21
+
+
+
+
+
+
+
+
+update_id 625
+Hyundai Ioniq 5
+93
+54
+50
+37
+83
+
+
+
+
+
+
+update_id 667
+Ford F-150 Lightning
+72
+37
+66
+82
+
+
+
+
+
+
+
+update_id 930
+Rivian R1S
+12
+50
+12
+85
+
+
+
+
+
+
+
+update_id 172
+Subaru Solterra
+67
+8
+75
+31
+9
+3
+
+
+
+
+
+update_id 845
+Kia Niro EV
+7
+9
+19
+
+48
+2
+
+
+
+
+
+update_id 8
+Porsche Taycan
+57
+38
+77
+
+9
+2
+
+
+
+
+
+update_id 43
+Subaru Solterra
+20
+88
+8
+
+30
+
+
+
+
+
+
+update_id 238
+BMW i4
+62
+7
+43
+93
+
+
+
+
+
+
+
+update_id 915
+Kia EV6
+24
+91
+95
+
+91
+2
+
+
+
+
+
+update_id 249
+Rivian R1S
+19
+76
+44
+
+
+
+
+
+
+
+
+update_id 32
+Toyota bZ4X
+32
+85
+3
+
+98
+
+
+
+
+
+
+update_id 683
+Mercedes-Benz EQS
+7
+74
+1
+96
+
+
+
+
+
+
+
+update_id 828
+Mazda MX-30
+82
+31
+2
+
+35
+
+
+
+
+
+
+update_id 587
+Ford Mustang Mach-E
+54
+64
+31
+
+94
+
+
+
+
+
+
+update_id 279
+Kia Niro EV
+98
+37
+4
+98
+
+3
+
+
+
+
+
+update_id 132
+Volkswagen ID.4
+97
+20
+83
+28
+78
+
+
+
+
+
+
+update_id 714
+BMW iX
+44
+58
+34
+46
+
+
+
+
+
+
+
+update_id 883
+Audi Q4 e-tron
+60
+95
+55
+32
+4
+
+
+
+
+
+
+update_id 73
+Mercedes-Benz EQC
+77
+33
+57
+32
+64
+3
+
+
+
+
+
+update_id 336
+Audi Q4 e-tron
+40
+37
+95
+
+7
+1
+
+
+
+
+
+update_id 47
+Tesla Model X
+25
+80
+78
+31
+
+
+
+
+
+
+
+update_id 614
+Kia Niro EV
+23
+21
+50
+
+43
+4
+
+
+
+
+
+update_id 26
+Volvo XC40 Recharge
+30
+61
+68
+
+
+
+
+
+
+
+
+update_id 694
+Porsche Taycan
+35
+73
+9
+83
+
+
+
+
+
+
+
+update_id 868
+Ford F-150 Lightning
+82
+14
+10
+45
+
+1
+
+
+
+
+
+update_id 635
+Tesla Model X
+84
+74
+17
+45
+
+1
+
+
+
+
+
+update_id 199
+Audi e-tron GT
+58
+94
+10
+
+
+
+
+
+
+
+
+update_id 668
+Tesla Model 3
+39
+74
+3
+92
+65
+
+
+
+
+
+
+update_id 440
+Mercedes-Benz EQC
+21
+94
+84
+51
+74
+
+
+
+
+
+
+update_id 513
+Porsche Taycan
+41
+79
+81
+11
+
+
+
+
+
+
+
+update_id 71
+Hyundai Ioniq 5
+33
+68
+64
+
+69
+4
+
+
+
+
+
+update_id 837
+Hyundai Ioniq 5
+7
+75
+87
+
+
+
+
+
+
+
+
+update_id 968
+Mercedes-Benz EQC
+71
+75
+43
+
+25
+
+
+
+
+
+
+update_id 958
+Audi Q4 e-tron
+15
+71
+14
+
+44
+1
+
+
+
+
+
+update_id 791
+BMW i4
+74
+94
+62
+73
+
+
+
+
+
+
+
+update_id 431
+Kia EV6
+86
+28
+55
+20
+57
+3
+
+
+
+
+
+update_id 318
+Rivian R1S
+72
+23
+66
+
+
+1
+
+
+
+
+
+update_id 517
+Toyota bZ4X
+38
+12
+34
+26
+
+4
+
+
+
+
+
+update_id 703
+BMW iX
+60
+30
+7
+
+59
+2
+
+
+
+
+
+update_id 522
+Audi Q4 e-tron
+25
+84
+62
+
+
+
+
+
+
+
+
+update_id 316
+Tesla Model S
+28
+88
+97
+87
+35
+
+
+
+
+
+
+update_id 967
+Tesla Model 3
+65
+76
+35
+38
+
+2
+
+
+
+
+
+update_id 107
+Porsche Taycan
+67
+62
+48
+
+18
+4
+
+
+
+
+
+update_id 88
+Audi Q4 e-tron
+84
+26
+21
+88
+98
+4
+
+
+
+
+
+update_id 879
+Rivian R1T
+91
+28
+67
+96
+
+
+
+
+
+
+
+update_id 931
+Hyundai Ioniq 5
+46
+88
+21
+
+78
+4
+
+
+
+
+
+update_id 915
+Ford F-150 Lightning
+91
+77
+14
+55
+78
+1
+
+
+
+
+
+update_id 242
+Hyundai Ioniq 5
+77
+66
+2
+94
+90
+1
+
+
+
+
+
+update_id 966
+Audi e-tron GT
+34
+14
+68
+
+
+3
+
+
+
+
+
+update_id 806
+Mercedes-Benz EQS
+17
+61
+71
+
+88
+
+
+
+
+
+
+update_id 269
+Ford F-150 Lightning
+23
+50
+7
+
+9
+
+
+
+
+
+
+update_id 335
+Hyundai Kona Electric
+94
+87
+47
+
+
+2
+
+
+
+
+
+update_id 88
+Porsche Taycan
+72
+64
+51
+4
+
+2
+
+
+
+
+
+update_id 595
+Subaru Solterra
+27
+97
+59
+
+
+
+
+
+
+
+
+update_id 928
+Chevrolet Corvette
+49
+50
+9
+40
+67
+
+
+
+
+
+
+update_id 80
+Audi Q4 e-tron
+17
+82
+68
+
+98
+
+
+
+
+
+
+update_id 636
+Rivian R1T
+97
+77
+12
+
+65
+
+
+
+
+
+
+update_id 343
+Toyota bZ4X
+36
+22
+22
+17
+89
+
+
+
+
+
+
+update_id 6
+Rivian R1S
+19
+26
+18
+
+
+
+
+
+
+
+
+update_id 826
+Ford Mustang Mach-E
+41
+34
+68
+98
+79
+4
+
+
+
+
+
+update_id 758
+Audi Q4 e-tron
+74
+30
+10
+
+68
+4
+
+
+
+
+
+update_id 337
+Porsche Taycan
+22
+98
+92
+19
+99
+4
+
+
+
+
+
+update_id 527
+Audi Q4 e-tron
+82
+77
+6
+
+19
+1
+
+
+
+
+
+update_id 526
+BMW i4
+20
+9
+75
+
+
+3
+
+
+
+
+
+update_id 898
+Lucid Air
+63
+74
+33
+
+
+4
+
+
+
+
+
+update_id 684
+Ford F-150 Lightning
+48
+72
+13
+81
+75
+2
+
+
+
+
+
+update_id 693
+Volvo XC40 Recharge
+75
+80
+70
+36
+
+2
+
+
+
+
+
+update_id 551
+Chevrolet Bolt EV
+3
+93
+41
+27
+10
+
+
+
+
+
+
+update_id 770
+Rivian R1T
+38
+79
+26
+
+69
+3
+
+
+
+
+
+update_id 83
+Tesla Model Y
+19
+27
+3
+
+74
+
+
+
+
+
+
+update_id 244
+Volkswagen ID.4
+68
+19
+37
+42
+
+2
+
+
+
+
+
+update_id 570
+Ford F-150 Lightning
+30
+60
+49
+91
+
+
+
+
+
+
+
+update_id 85
+Tesla Model 3
+81
+23
+54
+
+55
+
+
+
+
+
+
+update_id 27
+Mercedes-Benz EQS
+42
+34
+13
+32
+5
+1
+
+
+
+
+
+update_id 13
+Chevrolet Bolt EV
+82
+33
+43
+47
+
+
+
+
+
+
+
+update_id 476
+BMW i4
+4
+60
+88
+1
+9
+
+
+
+
+
+
+update_id 787
+Audi e-tron GT
+16
+74
+23
+
+10
+2
+
+
+
+
+
+update_id 691
+Ford F-150 Lightning
+65
+58
+62
+63
+
+3
+
+
+
+
+
+update_id 457
+Hyundai Ioniq 5
+82
+25
+75
+71
+36
+3
+
+
+
+
+
+update_id 330
+Tesla Model 3
+31
+73
+56
+30
+14
+3
+
+
+
+
+
+update_id 422
+Rivian R1T
+43
+41
+3
+
+
+2
+
+
+
+
+
+update_id 329
+Jaguar I-Pace
+56
+36
+25
+32
+
+4
+
+
+
+
+
+update_id 285
+Tesla Model Y
+27
+37
+21
+6
+
+2
+
+
+
+
+
+update_id 202
+Porsche Taycan
+80
+71
+13
+
+
+1
+
+
+
+
+
+update_id 276
+Tesla Model Y
+1
+75
+40
+
+8
+2
+
+
+
+
+
+update_id 954
+Toyota bZ4X
+88
+2
+26
+
+46
+2
+
+
+
+
+
+update_id 955
+Kia EV6
+10
+91
+80
+68
+93
+1
+
+
+
+
+
+update_id 541
+Tesla Model S
+45
+29
+39
+64
+61
+4
+
+
+
+
+
+update_id 680
+BMW i4
+4
+96
+12
+63
+
+
+
+
+
+
+
+update_id 103
+Polestar 2
+60
+23
+99
+52
+
+
+
+
+
+
+
+update_id 552
+Tesla Model 3
+78
+42
+55
+91
+
+1
+
+
+
+
+
+update_id 456
+Nissan Leaf
+24
+15
+61
+
+93
+1
+
+
+
+
+
+update_id 723
+Kia EV6
+51
+35
+40
+85
+20
+
+
+
+
+
+
+update_id 324
+Ford F-150 Lightning
+33
+55
+23
+70
+47
+1
+
+
+
+
+
+update_id 124
+Kia EV6
+80
+9
+93
+
+36
+3
+
+
+
+
+
+update_id 697
+Tesla Model X
+10
+71
+82
+40
+46
+1
+
+
+
+
+
+update_id 548
+Kia Niro EV
+3
+18
+72
+52
+
+
+
+
+
+
+
+update_id 916
+BMW iX
+18
+18
+8
+
+
+
+
+
+
+
+
+update_id 266
+Tesla Model S
+68
+35
+84
+73
+36
+1
+
+
+
+
+
+update_id 702
+Hyundai Kona Electric
+34
+29
+39
+9
+
+3
+
+
+
+
+
+update_id 586
+Lucid Air
+46
+52
+24
+
+
+
+
+
+
+
+
+update_id 685
+Audi Q4 e-tron
+45
+62
+96
+
+
+
+
+
+
+
+
+update_id 739
+Rivian R1S
+61
+85
+40
+
+
+
+
+
+
+
+
+update_id 165
+Rivian R1T
+69
+39
+6
+
+54
+4
+
+
+
+
+
+update_id 417
+Rivian R1T
+34
+68
+18
+16
+1
+
+
+
+
+
+
+update_id 330
+Tesla Model 3
+9
+21
+90
+46
+
+
+
+
+
+
+
+update_id 323
+Tesla Model S
+76
+11
+8
+
+53
+
+
+
+
+
+
+update_id 233
+Porsche Taycan
+69
+64
+19
+24
+35
+
+
+
+
+
+
+update_id 225
+Rivian R1T
+42
+16
+27
+7
+25
+1
+
+
+
+
+
+update_id 899
+Volkswagen ID.4
+79
+16
+67
+47
+
+2
+
+
+
+
+
+update_id 342
+Ford F-150 Lightning
+95
+78
+23
+8
+29
+2
+
+
+
+
+
+update_id 722
+Mercedes-Benz EQS
+63
+43
+16
+
+
+
+
+
+
+
+
+update_id 737
+Lucid Air
+6
+23
+89
+
+82
+
+
+
+
+
+
+update_id 891
+Porsche Taycan
+49
+83
+25
+
+11
+2
+
+
+
+
+
+update_id 380
+Volvo XC40 Recharge
+2
+94
+44
+
+70
+2
+
+
+
+
+
+update_id 687
+Hyundai Kona Electric
+88
+24
+71
+24
+11
+
+
+
+
+
+
+update_id 46
+Audi Q4 e-tron
+91
+46
+4
+
+29
+4
+
+
+
+
+
+update_id 968
+Tesla Model Y
+27
+91
+15
+
+
+
+
+
+
+
+
+update_id 497
+Hyundai Kona Electric
+68
+47
+76
+
+32
+
+
+
+
+
+
+update_id 298
+Chevrolet Corvette
+91
+67
+69
+33
+32
+3
+
+
+
+
+
+update_id 978
+Rivian R1T
+20
+70
+82
+27
+
+
+
+
+
+
+
+update_id 760
+Hyundai Kona Electric
+30
+64
+96
+84
+34
+3
+
+
+
+
+
+update_id 87
+Nissan Leaf
+66
+24
+76
+78
+
+
+
+
+
+
+
+update_id 365
+Audi e-tron GT
+13
+94
+93
+
+
+1
+
+
+
+
+
+update_id 447
+Ford Mustang Mach-E
+85
+46
+75
+
+26
+
+
+
+
+
+
+update_id 303
+Mercedes-Benz EQS
+20
+6
+81
+
+
+3
+
+
+
+
+
+update_id 945
+Tesla Model Y
+83
+27
+13
+
+49
+
+
+
+
+
+
+update_id 357
+Jaguar I-Pace
+58
+37
+52
+91
+
+2
+
+
+
+
+
+update_id 368
+Jaguar I-Pace
+71
+74
+54
+13
+
+
+
+
+
+
+
+update_id 955
+Hyundai Kona Electric
+22
+44
+99
+
+
+
+
+
+
+
+
+update_id 705
+Audi Q4 e-tron
+42
+67
+28
+54
+
+
+
+
+
+
+
+update_id 548
+Mercedes-Benz EQC
+87
+49
+3
+
+
+
+
+
+
+
+
+update_id 335
+Lucid Air
+71
+16
+29
+51
+
+2
+
+
+
+
+
+update_id 876
+Rivian R1S
+29
+91
+51
+52
+
+3
+
+
+
+
+
+update_id 41
+Lucid Air
+8
+69
+28
+
+
+
+
+
+
+
+
+update_id 108
+Chevrolet Corvette
+87
+13
+38
+
+57
+
+
+
+
+
+
+update_id 76
+Audi Q4 e-tron
+96
+69
+19
+4
+
+
+
+
+
+
+
+update_id 902
+BMW iX
+13
+53
+74
+84
+
+
+
+
+
+
+
+update_id 709
+Hyundai Kona Electric
+45
+27
+80
+6
+
+1
+
+
+
+
+
+update_id 445
+BMW i4
+40
+21
+44
+73
+
+
+
+
+
+
+
+update_id 885
+Mercedes-Benz EQS
+23
+66
+46
+20
+51
+
+
+
+
+
+
+update_id 167
+Volvo XC40 Recharge
+24
+38
+96
+88
+79
+1
+
+
+
+
+
+update_id 396
+BMW i4
+71
+78
+20
+5
+
+
+
+
+
+
+
+update_id 454
+Tesla Model Y
+51
+54
+4
+80
+53
+2
+
+
+
+
+
+update_id 521
+Tesla Model X
+11
+64
+53
+
+25
+3
+
+
+
+
+
+update_id 667
+Mazda MX-30
+8
+5
+82
+88
+30
+
+
+
+
+
+
+update_id 692
+Hyundai Kona Electric
+77
+85
+53
+79
+
+3
+
+
+
+
+
+update_id 186
+Chevrolet Bolt EV
+50
+18
+56
+
+
+
+
+
+
+
+
+update_id 337
+Chevrolet Corvette
+35
+70
+61
+
+
+
+
+
+
+
+
+update_id 652
+Audi e-tron GT
+32
+35
+35
+74
+
+
+
+
+
+
+
+update_id 98
+Kia Niro EV
+23
+89
+86
+92
+90
+
+
+
+
+
+
+update_id 277
+Mercedes-Benz EQS
+53
+2
+71
+34
+85
+1
+
+
+
+
+
+update_id 789
+Volkswagen ID.4
+46
+29
+67
+
+6
+
+
+
+
+
+
+update_id 755
+Hyundai Ioniq 5
+74
+31
+42
+99
+87
+
+
+
+
+
+
+update_id 901
+Audi e-tron GT
+21
+36
+26
+85
+
+1
+
+
+
+
+
+update_id 477
+Volvo XC40 Recharge
+24
+54
+82
+
+10
+2
+
+
+
+
+
+update_id 590
+Mercedes-Benz EQC
+39
+49
+47
+31
+32
+1
+
+
+
+
+
+update_id 798
+Volkswagen ID.4
+27
+58
+11
+
+
+
+
+
+
+
+
+update_id 139
+Volkswagen ID.4
+49
+84
+98
+16
+
+
+
+
+
+
+
+update_id 875
+Polestar 2
+21
+51
+24
+11
+16
+4
+
+
+
+
+
+update_id 960
+Jaguar I-Pace
+54
+27
+35
+
+85
+1
+
+
+
+
+
+update_id 572
+Hyundai Ioniq 5
+96
+68
+32
+53
+
+
+
+
+
+
+
+update_id 740
+Lucid Air
+89
+62
+16
+54
+8
+
+
+
+
+
+
+update_id 545
+Nissan Leaf
+93
+55
+83
+
+
+2
+
+
+
+
+
+update_id 674
+Rivian R1T
+56
+73
+35
+
+14
+
+
+
+
+
+
+update_id 482
+Toyota bZ4X
+74
+33
+23
+64
+
+
+
+
+
+
+
+update_id 243
+Ford Mustang Mach-E
+78
+64
+25
+
+52
+
+
+
+
+
+
+update_id 314
+Lucid Air
+59
+56
+74
+
+
+
+
+
+
+
+
+update_id 933
+Mercedes-Benz EQS
+14
+8
+55
+44
+
+
+
+
+
+
+
+update_id 70
+Subaru Solterra
+7
+61
+78
+
+90
+2
+
+
+
+
+
+update_id 863
+Audi Q4 e-tron
+6
+8
+6
+
+
+3
+
+
+
+
+
+update_id 635
+Audi e-tron GT
+9
+52
+19
+
+
+
+
+
+
+
+
+update_id 490
+Subaru Solterra
+49
+27
+75
+54
+
+
+
+
+
+
+
+update_id 279
+Jaguar I-Pace
+20
+73
+23
+88
+46
+2
+
+
+
+
+
+update_id 817
+Mercedes-Benz EQS
+95
+8
+34
+82
+13
+
+
+
+
+
+
+update_id 670
+Chevrolet Corvette
+14
+6
+12
+
+98
+2
+
+
+
+
+
+update_id 562
+Rivian R1T
+24
+14
+39
+50
+82
+
+
+
+
+
+
+update_id 881
+Audi e-tron GT
+17
+76
+65
+29
+87
+2
+
+
+
+
+
+update_id 126
+Rivian R1S
+32
+71
+25
+66
+
+3
+
+
+
+
+
+update_id 923
+Jaguar I-Pace
+66
+65
+69
+
+9
+2
+
+
+
+
+
+update_id 88
+Mazda MX-30
+81
+48
+16
+
+7
+4
+
+
+
+
+
+update_id 266
+Volkswagen ID.4
+30
+52
+97
+32
+
+
+
+
+
+
+
+update_id 310
+Subaru Solterra
+73
+91
+14
+
+61
+2
+
+
+
+
+
+update_id 283
+Audi Q4 e-tron
+8
+54
+89
+23
+38
+4
+
+
+
+
+
+update_id 233
+Tesla Model Y
+54
+25
+35
+34
+
+2
+
+
+
+
+
+update_id 773
+Chevrolet Bolt EV
+22
+96
+21
+65
+
+2
+
+
+
+
+
+update_id 57
+Mercedes-Benz EQS
+83
+50
+21
+
+65
+4
+
+
+
+
+
+update_id 832
+Hyundai Kona Electric
+89
+6
+93
+
+98
+
+
+
+
+
+
+update_id 109
+Ford F-150 Lightning
+29
+56
+93
+
+
+4
+
+
+
+
+
+update_id 985
+Toyota bZ4X
+32
+89
+94
+
+
+
+
+
+
+
+
+update_id 449
+Mazda MX-30
+16
+26
+93
+71
+
+4
+
+
+
+
+
+update_id 24
+Mercedes-Benz EQC
+61
+97
+4
+4
+
+
+
+
+
+
+
+update_id 587
+Tesla Model 3
+41
+7
+62
+
+
+3
+
+
+
+
+
+update_id 134
+Volkswagen ID.4
+26
+83
+77
+38
+8
+4
+
+
+
+
+
+update_id 420
+BMW iX
+3
+29
+6
+
+
+
+
+
+
+
+
+update_id 938
+Tesla Model Y
+77
+81
+85
+
+48
+1
+
+
+
+
+
+update_id 605
+Volvo XC40 Recharge
+68
+46
+61
+
+92
+
+
+
+
+
+
+update_id 534
+Hyundai Kona Electric
+81
+71
+57
+71
+
+
+
+
+
+
+
+update_id 523
+Kia Niro EV
+51
+2
+90
+
+
+4
+
+
+
+
+
+update_id 727
+Rivian R1T
+50
+18
+31
+96
+
+
+
+
+
+
+
+update_id 922
+Porsche Taycan
+44
+5
+26
+74
+83
+1
+
+
+
+
+
+update_id 173
+Jaguar I-Pace
+94
+74
+79
+2
+51
+
+
+
+
+
+
+update_id 611
+Volkswagen ID.4
+54
+71
+75
+44
+37
+3
+
+
+
+
+
+update_id 653
+Mercedes-Benz EQC
+55
+25
+20
+14
+41
+
+
+
+
+
+
+update_id 73
+Rivian R1T
+14
+47
+85
+
+83
+4
+
+
+
+
+
+update_id 350
+Subaru Solterra
+54
+96
+71
+47
+
+3
+
+
+
+
+
+update_id 450
+Ford Mustang Mach-E
+98
+78
+78
+
+
+1
+
+
+
+
+
+update_id 781
+Chevrolet Corvette
+34
+40
+18
+72
+
+1
+
+
+
+
+
+update_id 671
+Porsche Taycan
+37
+78
+33
+51
+
+2
+
+
+
+
+
+update_id 198
+BMW iX
+60
+81
+20
+
+24
+2
+
+
+
+
+
+update_id 443
+Lucid Air
+52
+28
+8
+
+
+
+
+
+
+
+
+update_id 101
+Chevrolet Corvette
+58
+4
+83
+36
+37
+3
+
+
+
+
+
+update_id 871
+Kia Niro EV
+43
+78
+45
+37
+
+2
+
+
+
+
+
+update_id 44
+BMW iX
+10
+35
+69
+34
+88
+1
+
+
+
+
+
+update_id 459
+Mercedes-Benz EQC
+38
+8
+8
+91
+
+3
+
+
+
+
+
+update_id 889
+Jaguar I-Pace
+96
+8
+34
+
+39
+2
+
+
+
+
+
+update_id 838
+Ford F-150 Lightning
+72
+14
+2
+
+75
+1
+
+
+
+
+
+update_id 352
+Rivian R1S
+5
+19
+14
+34
+
+2
+
+
+
+
+
+update_id 965
+BMW iX
+4
+13
+41
+13
+
+3
+
+
+
+
+
+update_id 477
+Audi e-tron GT
+27
+10
+74
+
+17
+
+
+
+
+
+
+update_id 542
+Lucid Air
+58
+36
+71
+15
+
+3
+
+
+
+
+
+update_id 228
+Kia EV6
+36
+53
+6
+96
+
+3
+
+
+
+
+
+update_id 36
+Mazda MX-30
+78
+24
+75
+15
+
+
+
+
+
+
+
+update_id 616
+Nissan Leaf
+79
+78
+99
+
+93
+
+
+
+
+
+
+update_id 908
+Rivian R1T
+74
+8
+36
+
+34
+
+
+
+
+
+
+update_id 964
+Audi e-tron GT
+15
+30
+83
+
+22
+
+
+
+
+
+
+update_id 328
+Mercedes-Benz EQS
+44
+76
+45
+
+
+
+
+
+
+
+
+update_id 994
+Chevrolet Corvette
+81
+90
+39
+69
+83
+
+
+
+
+
+
+update_id 76
+Kia EV6
+61
+68
+51
+
+
+3
+
+
+
+
+
+update_id 525
+Audi e-tron GT
+58
+38
+10
+83
+
+
+
+
+
+
+
+update_id 498
+Mercedes-Benz EQS
+73
+76
+7
+
+11
+2
+
+
+
+
+
+update_id 318
+Nissan Leaf
+91
+41
+67
+24
+90
+
+
+
+
+
+
+update_id 494
+Mazda MX-30
+57
+75
+39
+
+1
+
+
+
+
+
+
+update_id 921
+Ford Mustang Mach-E
+1
+88
+15
+82
+
+
+
+
+
+
+
+update_id 320
+Rivian R1T
+24
+91
+31
+
+
+2
+
+
+
+
+
+update_id 178
+Volkswagen ID.4
+56
+15
+16
+
+23
+3
+
+
+
+
+
+update_id 601
+Subaru Solterra
+58
+31
+17
+
+80
+4
+
+
+
+
+
+update_id 352
+Tesla Model S
+65
+42
+81
+80
+63
+1
+
+
+
+
+
+update_id 276
+BMW iX
+85
+68
+94
+
+32
+
+
+
+
+
+
+update_id 67
+BMW i4
+22
+19
+13
+58
+17
+1
+
+
+
+
+
+update_id 654
+Tesla Model 3
+80
+4
+49
+
+10
+
+
+
+
+
+
+update_id 437
+Lucid Air
+3
+1
+38
+
+37
+1
+
+
+
+
+
+update_id 223
+Ford F-150 Lightning
+38
+25
+9
+9
+53
+1
+
+
+
+
+
+update_id 844
+Tesla Model X
+70
+60
+63
+86
+54
+
+
+
+
+
+
+update_id 213
+BMW iX
+22
+61
+34
+
+92
+3
+
+
+
+
+
+update_id 618
+Mercedes-Benz EQC
+76
+52
+11
+20
+16
+
+
+
+
+
+
+update_id 55
+Rivian R1T
+87
+24
+16
+
+29
+1
+
+
+
+
+
+update_id 115
+Audi Q4 e-tron
+11
+14
+53
+
+
+
+
+
+
+
+
+update_id 719
+Jaguar I-Pace
+98
+27
+21
+
+75
+1
+
+
+
+
+
+update_id 289
+Volkswagen ID.4
+29
+28
+14
+
+51
+
+
+
+
+
+
+update_id 156
+BMW i4
+66
+22
+70
+89
+
+
+
+
+
+
+
+update_id 895
+Lucid Air
+86
+7
+45
+
+
+2
+
+
+
+
+
+update_id 589
+Mercedes-Benz EQS
+95
+48
+51
+
+22
+
+
+
+
+
+
+update_id 354
+Mazda MX-30
+45
+6
+49
+83
+87
+
+
+
+
+
+
+update_id 411
+Kia Niro EV
+23
+59
+56
+
+9
+
+
+
+
+
+
+update_id 790
+Polestar 2
+61
+35
+35
+93
+16
+2
+
+
+
+
+
+update_id 904
+Chevrolet Bolt EV
+50
+59
+54
+
+18
+
+
+
+
+
+
+update_id 891
+Nissan Leaf
+62
+19
+94
+75
+19
+
+
+
+
+
+
+update_id 954
+Chevrolet Bolt EV
+92
+74
+57
+91
+12
+
+
+
+
+
+
+update_id 654
+Lucid Air
+22
+77
+6
+
+
+
+
+
+
+
+
+update_id 954
+Tesla Model X
+36
+55
+19
+72
+65
+4
+
+
+
+
+
+update_id 817
+Lucid Air
+6
+66
+69
+9
+73
+
+
+
+
+
+
+update_id 607
+Subaru Solterra
+45
+86
+77
+
+
+1
+
+
+
+
+
+update_id 237
+BMW iX
+29
+45
+69
+
+
+
+
+
+
+
+
+update_id 637
+Audi e-tron GT
+32
+55
+7
+49
+51
+3
+
+
+
+
+
+update_id 176
+Audi Q4 e-tron
+42
+38
+5
+18
+
+1
+
+
+
+
+
+update_id 485
+Rivian R1S
+16
+23
+77
+58
+
+2
+
+
+
+
+
+update_id 547
+Mercedes-Benz EQS
+49
+29
+43
+12
+11
+
+
+
+
+
+
+update_id 904
+Tesla Model Y
+92
+62
+42
+88
+
+
+
+
+
+
+
+update_id 593
+Chevrolet Corvette
+70
+79
+89
+
+
+
+
+
+
+
+
+update_id 903
+Mazda MX-30
+23
+79
+9
+92
+
+
+
+
+
+
+
+update_id 730
+Subaru Solterra
+97
+6
+64
+
+48
+2
+
+
+
+
+
+update_id 546
+Ford Mustang Mach-E
+55
+87
+98
+
+
+2
+
+
+
+
+
+update_id 888
+Rivian R1S
+82
+4
+54
+
+15
+3
+
+
+
+
+
+update_id 510
+Volkswagen ID.4
+15
+33
+58
+90
+
+1
+
+
+
+
+
+update_id 351
+Kia Niro EV
+47
+9
+29
+
+57
+
+
+
+
+
+
+update_id 921
+Hyundai Ioniq 5
+46
+65
+86
+1
+70
+3
+
+
+
+
+
+update_id 749
+BMW i4
+44
+25
+7
+84
+
+
+
+
+
+
+
+update_id 397
+Polestar 2
+99
+45
+26
+42
+77
+
+
+
+
+
+
+update_id 952
+Rivian R1T
+71
+84
+65
+39
+18
+2
+
+
+
+
+
+update_id 362
+Ford Mustang Mach-E
+12
+48
+78
+
+
+
+
+
+
+
+
+update_id 907
+Nissan Leaf
+84
+29
+70
+
+
+
+
+
+
+
+
+update_id 760
+Chevrolet Bolt EV
+33
+50
+17
+59
+
+
+
+
+
+
+
+update_id 765
+Lucid Air
+57
+60
+29
+
+
+
+
+
+
+
+
+update_id 798
+BMW i4
+84
+84
+93
+29
+
+3
+
+
+
+
+
+update_id 495
+Jaguar I-Pace
+38
+3
+7
+56
+
+2
+
+
+
+
+
+update_id 344
+Porsche Taycan
+60
+52
+92
+
+27
+
+
+
+
+
+
+update_id 303
+Volvo XC40 Recharge
+31
+5
+51
+6
+90
+2
+
+
+
+
+
+update_id 351
+Tesla Model 3
+25
+7
+76
+
+92
+2
+
+
+
+
+
+update_id 812
+Chevrolet Corvette
+82
+67
+20
+
+81
+4
+
+
+
+
+
+update_id 481
+Jaguar I-Pace
+12
+8
+72
+63
+
+2
+
+
+
+
+
+update_id 643
+Chevrolet Corvette
+16
+45
+66
+9
+
+2
+
+
+
+
+
+update_id 365
+Ford Mustang Mach-E
+51
+7
+23
+
+32
+2
+
+
+
+
+
+update_id 504
+Kia EV6
+85
+37
+22
+
+4
+1
+
+
+
+
+
+update_id 690
+BMW iX
+76
+93
+6
+6
+90
+1
+
+
+
+
+
+update_id 98
+Nissan Leaf
+54
+63
+72
+
+
+
+
+
+
+
+
+update_id 818
+Hyundai Kona Electric
+40
+68
+15
+81
+
+2
+
+
+
+
+
+update_id 861
+Mercedes-Benz EQC
+35
+12
+77
+
+88
+
+
+
+
+
+
+update_id 459
+Kia Niro EV
+38
+77
+60
+
+27
+4
+
+
+
+
+
+update_id 673
+Kia Niro EV
+96
+25
+70
+36
+70
+4
+
+
+
+
+
+update_id 48
+Polestar 2
+52
+31
+93
+
+60
+
+
+
+
+
+
+update_id 244
+BMW iX
+14
+26
+23
+
+
+2
+
+
+
+
+
+update_id 120
+Volvo XC40 Recharge
+51
+69
+12
+33
+90
+1
+
+
+
+
+
+update_id 88
+BMW iX
+51
+41
+20
+74
+
+
+
+
+
+
+
+update_id 517
+Nissan Leaf
+66
+76
+77
+13
+79
+1
+
+
+
+
+
+update_id 915
+BMW i4
+81
+6
+79
+84
+92
+3
+
+
+
+
+
+update_id 997
+Jaguar I-Pace
+95
+97
+21
+
+36
+
+
+
+
+
+
+update_id 923
+Hyundai Kona Electric
+12
+65
+26
+
+96
+
+
+
+
+
+
+update_id 375
+Chevrolet Corvette
+32
+86
+4
+
+
+4
+
+
+
+
+
+update_id 463
+Volkswagen ID.4
+71
+53
+18
+99
+
+3
+
+
+
+
+
+update_id 884
+Rivian R1T
+15
+38
+53
+80
+
+4
+
+
+
+
+
+update_id 365
+Audi e-tron GT
+15
+12
+90
+
+83
+2
+
+
+
+
+
+update_id 234
+BMW iX
+15
+82
+57
+39
+
+
+
+
+
+
+
+update_id 409
+BMW iX
+86
+30
+51
+
+60
+
+
+
+
+
+
+update_id 696
+Mazda MX-30
+74
+88
+11
+
+
+
+
+
+
+
+
+update_id 241
+Mercedes-Benz EQC
+2
+95
+65
+66
+
+2
+
+
+
+
+
+update_id 869
+Volkswagen ID.4
+98
+94
+99
+84
+
+
+
+
+
+
+
+update_id 711
+BMW iX
+42
+17
+61
+
+
+3
+
+
+
+
+
+update_id 151
+Toyota bZ4X
+68
+74
+51
+
+56
+1
+
+
+
+
+
+update_id 996
+Tesla Model S
+4
+49
+90
+55
+90
+4
+
+
+
+
+
+update_id 28
+Volvo XC40 Recharge
+44
+31
+46
+79
+85
+1
+
+
+
+
+
+update_id 269
+Ford F-150 Lightning
+74
+66
+11
+57
+
+3
+
+
+
+
+
+update_id 585
+Chevrolet Corvette
+50
+56
+93
+
+
+
+
+
+
+
+
+update_id 997
+Volkswagen ID.4
+68
+94
+78
+
+16
+
+
+
+
+
+
+update_id 825
+Nissan Leaf
+29
+7
+43
+78
+
+
+
+
+
+
+
+update_id 890
+Tesla Model X
+69
+35
+51
+61
+31
+
+
+
+
+
+
+update_id 792
+Kia EV6
+72
+8
+6
+9
+
+3
+
+
+
+
+
+update_id 436
+Lucid Air
+84
+36
+44
+
+
+
+
+
+
+
+
+update_id 68
+Tesla Model S
+71
+45
+42
+
+
+
+
+
+
+
+
+update_id 257
+Kia Niro EV
+12
+39
+18
+12
+
+1
+
+
+
+
+
+update_id 746
+Hyundai Ioniq 5
+62
+57
+79
+
+
+4
+
+
+
+
+
+update_id 523
+Hyundai Kona Electric
+5
+68
+77
+85
+20
+1
+
+
+
+
+
+update_id 671
+Hyundai Kona Electric
+13
+19
+83
+
+1
+4
+
+
+
+
+
+update_id 393
+Ford F-150 Lightning
+62
+78
+32
+23
+
+
+
+
+
+
+
+update_id 307
+Rivian R1T
+3
+23
+39
+91
+
+
+
+
+
+
+
+update_id 918
+Rivian R1S
+84
+42
+36
+58
+
+
+
+
+
+
+
+update_id 201
+Volkswagen ID.4
+76
+48
+40
+2
+
+
+
+
+
+
+
+update_id 867
+Mercedes-Benz EQS
+95
+4
+61
+
+89
+
+
+
+
+
+
+update_id 208
+Audi e-tron GT
+54
+34
+33
+88
+11
+
+
+
+
+
+
+update_id 572
+Tesla Model Y
+20
+63
+5
+48
+48
+1
+
+
+
+
+
+update_id 660
+Subaru Solterra
+51
+48
+51
+49
+86
+
+
+
+
+
+
+update_id 769
+Mercedes-Benz EQC
+12
+30
+23
+88
+3
+
+
+
+
+
+
+update_id 27
+Tesla Model X
+8
+28
+26
+85
+31
+4
+
+
+
+
+
+update_id 847
+Jaguar I-Pace
+97
+5
+58
+5
+64
+4
+
+
+
+
+
+update_id 936
+Kia Niro EV
+94
+40
+92
+
+
+
+
+
+
+
+
+update_id 900
+BMW iX
+72
+96
+57
+
+
+
+
+
+
+
+
+update_id 143
+BMW i4
+52
+34
+36
+7
+76
+
+
+
+
+
+
+update_id 349
+Chevrolet Bolt EV
+20
+61
+80
+25
+66
+2
+
+
+
+
+
+update_id 931
+Audi e-tron GT
+36
+59
+53
+73
+64
+
+
+
+
+
+
+update_id 276
+Toyota bZ4X
+48
+14
+9
+60
+97
+1
+
+
+
+
+
+update_id 727
+Tesla Model 3
+72
+31
+17
+
+
+4
+
+
+
+
+
+update_id 292
+BMW iX
+69
+44
+33
+89
+61
+1
+
+
+
+
+
+update_id 427
+Rivian R1T
+88
+63
+77
+21
+88
+4
+
+
+
+
+
+update_id 668
+Mercedes-Benz EQC
+34
+79
+93
+
+43
+3
+
+
+
+
+
+update_id 760
+BMW i4
+70
+78
+79
+48
+
+2
+
+
+
+
+
+update_id 373
+Volkswagen ID.4
+68
+23
+97
+72
+35
+3
+
+
+
+
+
+update_id 586
+Audi Q4 e-tron
+57
+94
+45
+18
+
+1
+
+
+
+
+
+update_id 600
+Subaru Solterra
+26
+97
+72
+4
+
+3
+
+
+
+
+
+update_id 23
+Chevrolet Bolt EV
+1
+24
+1
+
+
+
+
+
+
+
+
+update_id 381
+Lucid Air
+47
+92
+18
+
+42
+2
+
+
+
+
+
+update_id 712
+Rivian R1S
+72
+46
+22
+86
+
+3
+
+
+
+
+
+update_id 145
+Mercedes-Benz EQS
+64
+20
+91
+
+
+
+
+
+
+
+
+update_id 42
+Chevrolet Corvette
+88
+87
+38
+
+
+2
+
+
+
+
+
+update_id 453
+Mercedes-Benz EQS
+96
+5
+24
+
+9
+3
+
+
+
+
+
+update_id 631
+Lucid Air
+7
+54
+49
+57
+71
+
+
+
+
+
+
+update_id 198
+Volkswagen ID.4
+49
+28
+71
+
+
+3
+
+
+
+
+
+update_id 284
+Jaguar I-Pace
+95
+20
+8
+
+
+4
+
+
+
+
+
+update_id 133
+Rivian R1S
+58
+3
+14
+35
+42
+4
+
+
+
+
+
+update_id 988
+Mercedes-Benz EQS
+80
+31
+1
+
+
+
+
+
+
+
+
+update_id 813
+Mazda MX-30
+84
+49
+66
+
+87
+3
+
+
+
+
+
+update_id 246
+Audi e-tron GT
+30
+90
+2
+64
+
+
+
+
+
+
+
+update_id 764
+Tesla Model Y
+49
+11
+97
+43
+95
+4
+
+
+
+
+
+update_id 729
+Toyota bZ4X
+94
+90
+1
+75
+80
+2
+
+
+
+
+
+update_id 793
+Tesla Model 3
+65
+9
+86
+
+
+1
+
+
+
+
+
+update_id 281
+Nissan Leaf
+82
+97
+61
+
+54
+4
+
+
+
+
+
+update_id 89
+Hyundai Kona Electric
+38
+38
+95
+
+90
+
+
+
+
+
+
+update_id 341
+Ford F-150 Lightning
+2
+2
+54
+
+
+
+
+
+
+
+
+update_id 867
+Polestar 2
+21
+79
+65
+81
+75
+1
+
+
+
+
+
+update_id 812
+Hyundai Ioniq 5
+36
+36
+8
+
+85
+3
+
+
+
+
+
+update_id 962
+Ford Mustang Mach-E
+42
+4
+39
+
+
+1
+
+
+
+
+
+update_id 182
+Ford F-150 Lightning
+41
+58
+61
+
+
+1
+
+
+
+
+
+update_id 185
+Hyundai Ioniq 5
+28
+1
+76
+97
+70
+1
+
+
+
+
+
+update_id 258
+Subaru Solterra
+31
+97
+39
+72
+93
+4
+
+
+
+
+
+update_id 923
+Toyota bZ4X
+69
+31
+80
+4
+
+
+
+
+
+
+
+update_id 978
+Tesla Model S
+66
+91
+39
+
+
+
+
+
+
+
+
+update_id 976
+Hyundai Ioniq 5
+80
+15
+53
+
+
+4
+
+
+
+
+
+update_id 757
+Ford F-150 Lightning
+12
+2
+51
+
+32
+
+
+
+
+
+
+update_id 135
+Mercedes-Benz EQC
+61
+6
+59
+32
+66
+1
+
+
+
+
+
+update_id 222
+Rivian R1S
+90
+67
+17
+86
+
+
+
+
+
+
+
+update_id 176
+Rivian R1T
+77
+50
+23
+24
+32
+
+
+
+
+
+
+update_id 73
+Tesla Model Y
+48
+45
+14
+
+
+4
+
+
+
+
+
+update_id 641
+Hyundai Kona Electric
+34
+15
+88
+92
+24
+
+
+
+
+
+
+update_id 777
+Subaru Solterra
+60
+34
+27
+
+37
+3
+
+
+
+
+
+update_id 702
+Toyota bZ4X
+37
+64
+46
+
+90
+1
+
+
+
+
+
+update_id 606
+Ford Mustang Mach-E
+22
+73
+22
+34
+76
+
+
+
+
+
+
+update_id 421
+Tesla Model S
+2
+75
+30
+19
+13
+1
+
+
+
+
+
+update_id 812
+Mercedes-Benz EQC
+81
+53
+33
+
+
+
+
+
+
+
+
+update_id 818
+Tesla Model X
+54
+21
+77
+
+
+
+
+
+
+
+
+update_id 350
+BMW i4
+92
+13
+31
+71
+
+
+
+
+
+
+
+update_id 178
+Volkswagen ID.4
+45
+47
+50
+
+48
+3
+
+
+
+
+
+update_id 358
+Ford F-150 Lightning
+24
+27
+94
+
+
+4
+
+
+
+
+
+update_id 664
+Subaru Solterra
+81
+3
+61
+14
+
+3
+
+
+
+
+
+update_id 445
+Tesla Model 3
+79
+2
+37
+
+66
+
+
+
+
+
+
+update_id 387
+Lucid Air
+45
+42
+15
+50
+23
+
+
+
+
+
+
+update_id 458
+Rivian R1T
+92
+4
+23
+
+10
+
+
+
+
+
+
+update_id 242
+Rivian R1T
+51
+58
+93
+96
+
+3
+
+
+
+
+
+update_id 998
+Lucid Air
+80
+51
+61
+
+
+4
+
+
+
+
+
+update_id 563
+BMW iX
+76
+71
+58
+77
+81
+1
+
+
+
+
+
+update_id 670
+BMW i4
+23
+75
+11
+30
+
+
+
+
+
+
+
+update_id 844
+Ford F-150 Lightning
+61
+18
+38
+
+43
+1
+
+
+
+
+
+update_id 932
+Chevrolet Corvette
+34
+78
+99
+
+76
+2
+
+
+
+
+
+update_id 815
+Nissan Leaf
+48
+42
+54
+
+
+3
+
+
+
+
+
+update_id 924
+Rivian R1T
+39
+90
+30
+
+40
+3
+
+
+
+
+
+update_id 60
+Ford Mustang Mach-E
+88
+26
+96
+
+
+
+
+
+
+
+
+update_id 118
+BMW i4
+33
+83
+35
+
+14
+4
+
+
+
+
+
+update_id 915
+BMW i4
+92
+41
+32
+
+
+4
+
+
+
+
+
+update_id 282
+Mercedes-Benz EQS
+23
+75
+3
+
+48
+3
+
+
+
+
+
+update_id 3
+Nissan Leaf
+90
+15
+71
+85
+
+1
+
+
+
+
+
+update_id 231
+Audi e-tron GT
+27
+80
+64
+
+97
+
+
+
+
+
+
+update_id 285
+Mercedes-Benz EQS
+23
+40
+86
+5
+
+2
+
+
+
+
+
+update_id 809
+Kia Niro EV
+58
+61
+22
+74
+
+1
+
+
+
+
+
+update_id 671
+Rivian R1T
+25
+93
+82
+99
+1
+
+
+
+
+
+
+update_id 65
+BMW i4
+92
+53
+76
+
+2
+4
+
+
+
+
+
+update_id 687
+Volkswagen ID.4
+95
+13
+49
+
+
+1
+
+
+
+
+
+update_id 460
+Tesla Model 3
+54
+91
+84
+57
+70
+3
+
+
+
+
+
+update_id 1000
+Kia EV6
+5
+98
+39
+87
+
+4
+
+
+
+
+
+update_id 292
+Ford Mustang Mach-E
+30
+64
+42
+
+
+1
+
+
+
+
+
+update_id 550
+Volkswagen ID.4
+12
+68
+83
+
+23
+
+
+
+
+
+
+update_id 672
+Mercedes-Benz EQC
+74
+23
+75
+34
+
+
+
+
+
+
+
+update_id 222
+Chevrolet Bolt EV
+73
+84
+85
+98
+25
+
+
+
+
+
+
+update_id 423
+Chevrolet Corvette
+70
+38
+30
+99
+
+
+
+
+
+
+
+update_id 339
+BMW iX
+24
+59
+26
+
+74
+
+
+
+
+
+
+update_id 652
+Rivian R1T
+28
+73
+95
+44
+
+3
+
+
+
+
+
+update_id 436
+Ford Mustang Mach-E
+55
+86
+95
+
+
+
+
+
+
+
+
+update_id 164
+Tesla Model Y
+31
+47
+58
+
+77
+3
+
+
+
+
+
+update_id 682
+Rivian R1S
+97
+82
+84
+7
+
+
+
+
+
+
+
+update_id 530
+Polestar 2
+89
+4
+68
+
+65
+
+
+
+
+
+
+update_id 323
+Mercedes-Benz EQC
+6
+86
+1
+75
+46
+4
+
+
+
+
+
+update_id 140
+Audi Q4 e-tron
+9
+79
+23
+
+83
+1
+
+
+
+
+
+update_id 534
+Volvo XC40 Recharge
+31
+18
+13
+
+71
+
+
+
+
+
+
+update_id 692
+BMW i4
+86
+55
+34
+
+19
+
+
+
+
+
+
+update_id 26
+Hyundai Ioniq 5
+88
+83
+7
+34
+32
+4
+
+
+
+
+
+update_id 26
+Hyundai Kona Electric
+84
+48
+55
+8
+
+
+
+
+
+
+
+update_id 260
+Kia Niro EV
+34
+49
+58
+97
+
+3
+
+
+
+
+
+update_id 912
+Jaguar I-Pace
+18
+78
+6
+30
+64
+
+
+
+
+
+
+update_id 797
+Mercedes-Benz EQS
+63
+9
+43
+41
+3
+
+
+
+
+
+
+update_id 890
+Tesla Model S
+18
+18
+16
+48
+48
+
+
+
+
+
+
+update_id 671
+Audi Q4 e-tron
+37
+99
+62
+
+65
+
+
+
+
+
+
+update_id 889
+Porsche Taycan
+30
+70
+78
+7
+13
+2
+
+
+
+
+
+update_id 441
+Tesla Model Y
+18
+7
+77
+
+41
+1
+
+
+
+
+
+update_id 898
+Subaru Solterra
+98
+31
+3
+64
+32
+3
+
+
+
+
+
+update_id 561
+Tesla Model Y
+33
+52
+57
+50
+32
+
+
+
+
+
+
+update_id 780
+Chevrolet Bolt EV
+51
+77
+84
+68
+
+
+
+
+
+
+
+update_id 287
+Volkswagen ID.4
+62
+86
+39
+
+90
+1
+
+
+
+
+
+update_id 712
+Mazda MX-30
+99
+27
+45
+
+
+4
+
+
+
+
+
+update_id 843
+Kia EV6
+72
+57
+10
+
+
+
+
+
+
+
+
+update_id 545
+BMW i4
+89
+7
+14
+68
+72
+2
+
+
+
+
+
+update_id 277
+Toyota bZ4X
+67
+14
+71
+
+
+
+
+
+
+
+
+update_id 173
+Kia EV6
+62
+78
+21
+25
+
+
+
+
+
+
+
+update_id 581
+BMW i4
+45
+48
+22
+
+
+
+
+
+
+
+
+update_id 854
+Chevrolet Corvette
+91
+9
+49
+54
+
+
+
+
+
+
+
+update_id 584
+Chevrolet Bolt EV
+11
+82
+95
+
+80
+3
+
+
+
+
+
+update_id 435
+Nissan Leaf
+88
+19
+83
+
+
+2
+
+
+
+
+
+update_id 97
+Lucid Air
+63
+20
+22
+80
+
+2
+
+
+
+
+
+update_id 295
+Tesla Model X
+3
+29
+68
+
+36
+2
+
+
+
+
+
+update_id 51
+Toyota bZ4X
+11
+11
+74
+69
+82
+
+
+
+
+
+
+update_id 661
+Hyundai Kona Electric
+35
+22
+94
+83
+58
+3
+
+
+
+
+
+update_id 687
+Mazda MX-30
+5
+66
+19
+50
+67
+1
+
+
+
+
+
+update_id 136
+Rivian R1S
+96
+87
+48
+75
+
+1
+
+
+
+
+
+update_id 357
+Hyundai Ioniq 5
+4
+44
+44
+77
+45
+
+
+
+
+
+
+update_id 613
+Ford F-150 Lightning
+70
+58
+69
+
+
+4
+
+
+
+
+
+update_id 615
+Ford Mustang Mach-E
+30
+74
+70
+55
+52
+1
+
+
+
+
+
+update_id 593
+Ford Mustang Mach-E
+69
+51
+92
+49
+20
+4
+
+
+
+
+
+update_id 121
+BMW iX
+89
+18
+29
+
+71
+
+
+
+
+
+
+update_id 743
+Tesla Model Y
+4
+70
+52
+40
+1
+1
+
+
+
+
+
+update_id 206
+Chevrolet Corvette
+15
+23
+86
+74
+70
+3
+
+
+
+
+
+update_id 321
+Polestar 2
+98
+6
+76
+47
+9
+
+
+
+
+
+
+update_id 725
+Chevrolet Bolt EV
+76
+62
+89
+
+
+
+
+
+
+
+
+update_id 779
+Lucid Air
+60
+35
+87
+78
+22
+3
+
+
+
+
+
+update_id 762
+Mercedes-Benz EQC
+2
+5
+26
+40
+
+3
+
+
+
+
+
+update_id 878
+Volvo XC40 Recharge
+46
+14
+91
+99
+57
+
+
+
+
+
+
+update_id 1000
+BMW iX
+35
+1
+36
+75
+
+2
+
+
+
+
+
+update_id 702
+Rivian R1S
+70
+38
+91
+
+69
+
+
+
+
+
+
+update_id 340
+Tesla Model 3
+59
+92
+16
+90
+
+
+
+
+
+
+
+update_id 244
+Rivian R1S
+27
+69
+95
+98
+
+
+
+
+
+
+
+update_id 99
+Kia EV6
+38
+72
+46
+
+
+4
+
+
+
+
+
+update_id 375
+BMW i4
+26
+25
+97
+
+83
+
+
+
+
+
+
+update_id 97
+Tesla Model Y
+84
+45
+73
+
+29
+4
+
+
+
+
+
+update_id 178
+Mercedes-Benz EQS
+53
+3
+50
+9
+
+
+
+
+
+
+
+update_id 903
+Ford Mustang Mach-E
+28
+64
+49
+36
+50
+
+
+
+
+
+
+update_id 187
+Ford Mustang Mach-E
+51
+44
+33
+
+
+4
+
+
+
+
+
+update_id 143
+Chevrolet Bolt EV
+49
+1
+99
+
+
+
+
+
+
+
+
+update_id 733
+Chevrolet Bolt EV
+9
+23
+7
+
+53
+1
+
+
+
+
+
+update_id 651
+Audi Q4 e-tron
+15
+56
+34
+34
+
+4
+
+
+
+
+
+update_id 732
+Kia EV6
+57
+59
+99
+83
+85
+1
+
+
+
+
+
+update_id 416
+Tesla Model X
+45
+95
+7
+
+14
+
+
+
+
+
+
+update_id 732
+Chevrolet Corvette
+39
+81
+78
+
+
+
+
+
+
+
+
+update_id 21
+Nissan Leaf
+88
+19
+29
+
+78
+1
+
+
+
+
+
+update_id 26
+BMW iX
+8
+80
+87
+
+
+
+
+
+
+
+
+update_id 204
+Lucid Air
+14
+68
+78
+11
+38
+
+
+
+
+
+
+update_id 903
+Subaru Solterra
+50
+27
+59
+
+
+
+
+
+
+
+
+update_id 996
+Ford F-150 Lightning
+89
+61
+62
+74
+
+3
+
+
+
+
+
+update_id 897
+Volvo XC40 Recharge
+67
+51
+34
+96
+43
+
+
+
+
+
+
+update_id 323
+Ford Mustang Mach-E
+57
+28
+82
+
+50
+2
+
+
+
+
+
+update_id 320
+Polestar 2
+72
+95
+73
+
+
+
+
+
+
+
+
+update_id 12
+Rivian R1S
+80
+86
+8
+
+74
+
+
+
+
+
+
+update_id 442
+Tesla Model 3
+33
+65
+30
+39
+33
+1
+
+
+
+
+
+update_id 830
+Hyundai Ioniq 5
+27
+8
+52
+68
+48
+4
+
+
+
+
+
+update_id 682
+Tesla Model 3
+56
+18
+46
+
+58
+
+
+
+
+
+
+update_id 142
+BMW iX
+70
+78
+99
+
+
+
+
+
+
+
+
+update_id 332
+Volkswagen ID.4
+3
+5
+87
+
+
+4
+
+
+
+
+
+update_id 835
+Toyota bZ4X
+46
+44
+37
+3
+30
+1
+
+
+
+
+
+update_id 205
+Rivian R1S
+40
+88
+29
+94
+23
+
+
+
+
+
+
+update_id 305
+Rivian R1T
+55
+97
+59
+32
+54
+1
+
+
+
+
+
+update_id 99
+Ford F-150 Lightning
+67
+75
+21
+
+78
+
+
+
+
+
+
+update_id 916
+Ford Mustang Mach-E
+13
+87
+7
+44
+
+3
+
+
+
+
+
+update_id 16
+Nissan Leaf
+65
+98
+84
+
+57
+
+
+
+
+
+
+update_id 712
+Porsche Taycan
+87
+1
+41
+20
+
+
+
+
+
+
+
+update_id 941
+Volkswagen ID.4
+81
+58
+48
+58
+57
+3
+
+
+
+
+
+update_id 442
+Lucid Air
+1
+95
+44
+
+12
+1
+
+
+
+
+
+update_id 623
+Mercedes-Benz EQS
+9
+68
+34
+
+4
+
+
+
+
+
+
+update_id 348
+Polestar 2
+12
+99
+26
+31
+
+
+
+
+
+
+
+update_id 882
+Porsche Taycan
+64
+40
+27
+44
+62
+2
+
+
+
+
+
+update_id 765
+Tesla Model Y
+31
+13
+24
+71
+
+
+
+
+
+
+
+update_id 769
+Porsche Taycan
+99
+61
+73
+
+36
+
+
+
+
+
+
+update_id 906
+Ford F-150 Lightning
+95
+78
+84
+55
+44
+
+
+
+
+
+
+update_id 608
+Tesla Model 3
+26
+9
+49
+12
+
+
+
+
+
+
+
+update_id 254
+Porsche Taycan
+32
+82
+64
+
+
+
+
+
+
+
+
+update_id 392
+Mercedes-Benz EQC
+47
+74
+13
+
+53
+
+
+
+
+
+
+update_id 207
+Audi Q4 e-tron
+6
+91
+35
+40
+63
+
+
+
+
+
+
+update_id 140
+Hyundai Kona Electric
+68
+77
+12
+1
+1
+4
+
+
+
+
+
+update_id 24
+Jaguar I-Pace
+70
+7
+70
+55
+84
+
+
+
+
+
+
+update_id 444
+Volvo XC40 Recharge
+56
+26
+7
+
+44
+3
+
+
+
+
+
+update_id 743
+Nissan Leaf
+10
+99
+16
+
+
+
+
+
+
+
+
+update_id 681
+Polestar 2
+18
+55
+44
+
+
+
+
+
+
+
+
+update_id 528
+Tesla Model X
+96
+18
+67
+
+83
+
+
+
+
+
+
+update_id 662
+Porsche Taycan
+41
+77
+43
+
+
+
+
+
+
+
+
+update_id 370
+Kia EV6
+58
+7
+88
+
+57
+2
+
+
+
+
+
+update_id 347
+Mercedes-Benz EQS
+45
+50
+77
+27
+37
+2
+
+
+
+
+
+update_id 791
+BMW i4
+36
+42
+38
+
+
+4
+
+
+
+
+
+update_id 247
+Jaguar I-Pace
+33
+21
+21
+
+58
+
+
+
+
+
+
+update_id 577
+Subaru Solterra
+41
+64
+65
+
+
+3
+
+
+
+
+
+update_id 358
+Subaru Solterra
+93
+36
+32
+
+62
+4
+
+
+
+
+
+update_id 941
+Tesla Model X
+36
+66
+22
+
+
+
+
+
+
+
+
+update_id 287
+Polestar 2
+43
+90
+28
+62
+
+1
+
+
+
+
+
+update_id 813
+Porsche Taycan
+35
+83
+55
+
+32
+3
+
+
+
+
+
+update_id 249
+Jaguar I-Pace
+37
+34
+87
+
+88
+3
+
+
+
+
+
+update_id 334
+Lucid Air
+44
+16
+65
+15
+64
+
+
+
+
+
+
+update_id 23
+Mercedes-Benz EQC
+84
+80
+86
+62
+8
+
+
+
+
+
+
+update_id 58
+Tesla Model Y
+49
+37
+59
+
+
+
+
+
+
+
+
+update_id 147
+Toyota bZ4X
+74
+52
+34
+
+34
+
+
+
+
+
+
+update_id 457
+Jaguar I-Pace
+53
+53
+87
+
+
+
+
+
+
+
+
+update_id 463
+Mazda MX-30
+20
+18
+59
+31
+64
+
+
+
+
+
+
+update_id 994
+Rivian R1T
+88
+54
+11
+
+60
+
+
+
+
+
+
